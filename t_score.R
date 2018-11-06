@@ -1,6 +1,5 @@
 library(fplr)
 library(tidyverse)
-library(openxlsx)
 
 
 players <- fpl_get_players()
@@ -56,7 +55,7 @@ players_utvalg <- players%>%
 
 # Printer til excel
   
-write.xlsx(players_utvalg, "t_score.xlsx")
+write.csv(players_utvalg, "t_score csv/t_score.csv")
 
 
 currentDate <- Sys.Date() 
