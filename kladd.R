@@ -1,5 +1,6 @@
 library(fplr)
 library(tidyverse)
+library(gridExtra)
 
 players <- fpl_get_players()
 player_details <- fpl_get_player_detailed(player_id = list)
@@ -8,6 +9,7 @@ fixtures <- fpl_get_fixtures()
 martin <- fpl_get_user_performance(user_id = 2622564)
 thomas <- fpl_get_user_performance(user_id = 4452806)
 phong <- fpl_get_user_performance(user_id = 4555888)
+mina <- fpl_get_user_performance(user_id = 54323)
 
 list <- (players$id)
 
@@ -32,7 +34,7 @@ sammenlikning_rank <- martin_rank%>%
   left_join(thomas_rank)%>%
   gather(key = name, value = rank, -1)
   
-ggplot(sammenlikning_rank, aes(x=event, y=rank, colour = name))+
+plot_rank <- ggplot(sammenlikning_rank, aes(x=event, y=rank, colour = name))+
   geom_line(size = 1)+
   ggtitle("Rank", subtitle = NULL)+
   scale_fill_grey()+
@@ -53,7 +55,7 @@ sammenlikning_totpt <- martin_totpt%>%
   left_join(thomas_totpt)%>%
   gather(key = name, value = total_points, -1)
 
-ggplot(sammenlikning_totpt, aes(x=event, y=total_points, colour = name))+
+plot_totpt <- ggplot(sammenlikning_totpt, aes(x=event, y=total_points, colour = name))+
   geom_line(size = 1)+
   ggtitle("Total points", subtitle = NULL)+
   scale_fill_grey()
@@ -73,9 +75,12 @@ phong_pt <- phong$history%>%
   select(event, points)%>%
   rename(pt_phong = points)
 
-sammenlikning_pt <- martin_pt%>%
-  left_join(thomas_pt)%>%
-  left_join(phong_pt)%>%
+mina_pt <- mina$history%>%
+  select(event, points)%>%
+  rename(pt_mina = points)
+
+sammenlikning_pt <- thomas_pt%>%
+  left_join(mina_pt)%>%
   gather(key = name, value = points, -1)
 
 ggplot(sammenlikning_pt, aes(x=event, y=points, fill = name))+
@@ -84,5 +89,4 @@ ggplot(sammenlikning_pt, aes(x=event, y=points, fill = name))+
   ggtitle("Total points")
 
 
-
-player_detailes$history
+grid.arrange(plot_rank, plot_round)

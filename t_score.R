@@ -59,5 +59,7 @@ players_utvalg <- players%>%
 write.xlsx(players_utvalg, "t_score.xlsx")
 
 
-
+currentDate <- Sys.Date() 
+csvFileName <- paste("C:/R/Remake/XPX",currentDate,".csv",sep="") 
+write.csv(S1X.sub, file=csvFileName) 
 
