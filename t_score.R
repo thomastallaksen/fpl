@@ -41,9 +41,9 @@ difficulty_next_5 <- function(x){
 players <- players%>%
   rowwise()%>%
   mutate(difficulty_next_5 = difficulty_next_5(id))%>%
-  mutate(t_score_cpt = t_score_cpt(id))%>%
+  mutate(t_score_cpt = sprintf("%0.2f", t_score_cpt(id)))%>%
   mutate(points_last_5 = points_last_5(id))%>%
-  mutate(t_score = t_score(id))
+  mutate(t_score = sprintf("%0.2f", t_score(id)))
 
 
 # Select appropriate columns
