@@ -1,6 +1,6 @@
 # fpl - t_score
 
-Project for playing with stats for Fantasy Premier League, to learn R and have more fun with FPL. I rely heavily on the fplr package made by ewenme for fetching the stats. The t_score (Thomas score, of course!) is a score for picking the best players for next round. I will iterate on the model, so see below on what it currently consists of. I will run the script every round and update with new csv-sheets for next round. 
+Project for playing with stats for Fantasy Premier League, to learn R and have more fun with FPL. I rely heavily on the fplr package made by ewenme for fetching the stats. The t_score (Thomas score, duh!) is a score for picking the best players for next round. I will iterate on the model, so see below on what it currently consists of. I will run the script every round and update with new csv-sheets for next round. 
 
 I would love comments on how to improve the model, or if anybody want to contribute to the code, feel free! 
 
