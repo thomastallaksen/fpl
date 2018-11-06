@@ -5,7 +5,7 @@ library(tidyverse)
 players <- fpl_get_players()
 
 
-# Definerer funksjoner
+# Defines functions
 
 t_score <- function(x){
   player <- fpl_get_player_detailed(x)
@@ -36,7 +36,7 @@ difficulty_next_5 <- function(x){
 }
 
 
-# Anvender funksjonene per spiller
+# Calculate rowwvise stats for the individual players using the functions
 
 players <- players%>%
   rowwise()%>%
@@ -46,19 +46,18 @@ players <- players%>%
   mutate(t_score = t_score(id))
 
 
-# Velger ut relevante stats 
+# Select appropriate columns
 
 players_utvalg <- players%>%
-  select(first_name, second_name, team_name, now_cost, position, chance_of_playing_this_round, form, total_points, points_last_5, difficulty_next_5, t_score, t_score_cpt)%>%
+  select(second_name, first_name, team_name, position, now_cost,form, total_points, points_last_5, difficulty_next_5, t_score, t_score_cpt)%>%
   arrange(desc(t_score))
 
 
-# Printer til excel
-  
-write.csv(players_utvalg, "t_score csv/t_score.csv")
+# Prints csv named with last round
 
+player_1 <- fpl_get_player_detailed(1)
+next_round <- max(player_1$history$round)+1
 
-currentDate <- Sys.Date() 
-csvFileName <- paste("C:/R/Remake/XPX",currentDate,".csv",sep="") 
-write.csv(S1X.sub, file=csvFileName) 
+csvFileName <- paste("t_score csv/t_score_round_",next_round,".csv",sep="") 
+write.csv(players_utvalg, file=csvFileName) 
 
