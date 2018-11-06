@@ -23,7 +23,7 @@ t_score_cpt <- function(x){
   return(t_score)
 }  
 
-points_last_5 <- function(x){
+mean_points_last_5 <- function(x){
   player <- fpl_get_player_detailed(x)
   points_last_5 <- mean(tail(player$history$total_points, 5))
   return(points_last_5)
@@ -42,14 +42,14 @@ players <- players%>%
   rowwise()%>%
   mutate(difficulty_next_5 = difficulty_next_5(id))%>%
   mutate(t_score_cpt = sprintf("%0.2f", t_score_cpt(id)))%>%
-  mutate(points_last_5 = points_last_5(id))%>%
+  mutate(mean_points_last_5 = mean_points_last_5(id))%>%
   mutate(t_score = sprintf("%0.2f", t_score(id)))
 
 
 # Select appropriate columns
 
 players_utvalg <- players%>%
-  select(second_name, first_name, team_name, position, now_cost,form, total_points, points_last_5, difficulty_next_5, t_score, t_score_cpt)%>%
+  select(second_name, first_name, team_name, position, mean_points_last_5, difficulty_next_5, t_score, t_score_cpt)%>%
   arrange(desc(t_score))
 
 
@@ -59,5 +59,4 @@ player_1 <- fpl_get_player_detailed(1)
 next_round <- max(player_1$history$round)+1
 
 csvFileName <- paste("t_score csv/t_score_round_",next_round,".csv",sep="") 
-write.csv(players_utvalg, file=csvFileName) 
-
+write.csv(players_utvalg, file=csvFileName)
