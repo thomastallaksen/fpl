@@ -1,551 +1,553 @@
-"","second_name","first_name","team_name","position","mean_points_last_5","difficulty_next_5","t_score","t_score_cpt"
-"1","Martial","Anthony","Man Utd","Midfielder",9.8,3,"3.27","1.96"
-"2","Ryan","Mathew","Brighton","Goalkeeper",6.8,2.2,"3.09","3.40"
-"3","Sterling","Raheem","Man City","Midfielder",8.8,3.4,"2.59","2.20"
-"4","Sigurdsson","Gylfi","Everton","Midfielder",8,3.2,"2.50","2.00"
-"5","Aubameyang","Pierre-Emerick","Arsenal","Forward",7.8,3.2,"2.44","2.60"
-"6","Dunk","Lewis","Brighton","Defender",5.2,2.2,"2.36","2.60"
-"7","Saltor Grau","Bruno","Brighton","Defender",5.2,2.2,"2.36","2.60"
-"8","Wilson","Callum","Bournemouth","Forward",8,3.4,"2.35","4.00"
-"9","Gudmundsson","Johann Berg","Burnley","Midfielder",6,2.6,"2.31","2.00"
-"10","Salah","Mohamed","Liverpool","Midfielder",6,2.6,"2.31","3.00"
-"11","Barkley","Ross","Chelsea","Midfielder",7.8,3.4,"2.29","2.60"
-"12","Pickford","Jordan","Everton","Goalkeeper",7.2,3.2,"2.25","1.80"
-"13","Pereira Gomes","Felipe Anderson","West Ham","Midfielder",5.8,2.6,"2.23","2.90"
-"14","Doherty","Matt","Wolves","Defender",6.2,2.8,"2.21","1.55"
-"15","de Andrade","Richarlison","Everton","Midfielder",6.6,3.2,"2.06","1.65"
-"16","Trippier","Kieran","Spurs","Defender",6,3,"2.00","3.00"
-"17","Bong","Gaëtan","Brighton","Defender",4,2.2,"1.82","2.00"
-"18","Murray","Glenn","Brighton","Forward",4,2.2,"1.82","2.00"
-"19","Sánchez","Davinson","Spurs","Defender",5.4,3,"1.80","2.70"
-"20","Jiménez","Raúl","Wolves","Forward",5,2.8,"1.79","1.25"
-"21","Santana de Moraes","Ederson","Man City","Goalkeeper",6,3.4,"1.76","1.50"
-"22","Agüero","Sergio","Man City","Forward",6,3.4,"1.76","1.50"
-"23","Duffy","Shane","Brighton","Defender",3.8,2.2,"1.73","1.90"
-"24","Hazard","Eden","Chelsea","Midfielder",5.8,3.4,"1.71","1.93"
-"25","Chilwell","Benjamin","Leicester","Defender",4.8,2.8,"1.71","2.40"
-"26","dos Santos Patrício","Rui Pedro","Wolves","Goalkeeper",4.8,2.8,"1.71","1.20"
-"27","Lacazette","Alexandre","Arsenal","Forward",5.4,3.2,"1.69","1.80"
-"28","Vokes","Sam","Burnley","Forward",4.4,2.6,"1.69","1.47"
-"29","Dubravka","Martin","Newcastle","Goalkeeper",4.4,2.6,"1.69","1.47"
-"30","Kane","Harry","Spurs","Forward",5,3,"1.67","2.50"
-"31","Sané","Leroy","Man City","Midfielder",5.6,3.4,"1.65","1.40"
-"32","Kayal","Beram","Brighton","Midfielder",3.6,2.2,"1.64","1.80"
-"33","Schindler","Christopher","Huddersfield","Defender",4.6,2.8,"1.64","2.30"
-"34","Maguire","Harry","Leicester","Defender",4.6,2.8,"1.64","2.30"
-"35","Castro Otto","Jonathan","Wolves","Defender",4.6,2.8,"1.64","1.15"
-"36","Özil","Mesut","Arsenal","Midfielder",5.2,3.2,"1.62","1.73"
-"37","Murphy","Josh","Cardiff","Midfielder",4.2,2.6,"1.62","2.10"
-"38","Mané","Sadio","Liverpool","Midfielder",4.2,2.6,"1.62","2.10"
-"39","Arnautovic","Marko","West Ham","Forward",4.2,2.6,"1.62","2.10"
-"40","Rüdiger","Antonio","Chelsea","Defender",5.4,3.4,"1.59","1.80"
-"41","March","Solomon","Brighton","Midfielder",3.4,2.2,"1.55","1.70"
-"42","Paterson","Callum","Cardiff","Midfielder",4,2.6,"1.54","2.00"
-"43","Lovren","Dejan","Liverpool","Defender",4,2.6,"1.54","2.00"
-"44","van Dijk","Virgil","Liverpool","Defender",4,2.6,"1.54","2.00"
-"45","Ramses Becker","Alisson","Liverpool","Goalkeeper",4,2.6,"1.54","2.00"
-"46","Brooks","David","Bournemouth","Midfielder",5.2,3.4,"1.53","2.60"
-"47","Alonso","Marcos","Chelsea","Defender",5.2,3.4,"1.53","1.73"
-"48","Morata","Álvaro","Chelsea","Forward",5.2,3.4,"1.53","1.73"
-"49","Laporte","Aymeric","Man City","Defender",5.2,3.4,"1.53","1.30"
-"50","Keane","Michael","Everton","Defender",4.8,3.2,"1.50","1.20"
-"51","Schmeichel","Kasper","Leicester","Goalkeeper",4.2,2.8,"1.50","2.10"
-"52","Begovic","Asmir","Bournemouth","Goalkeeper",5,3.4,"1.47","2.50"
-"53","Silva","David","Man City","Midfielder",5,3.4,"1.47","1.25"
-"54","Lloris","Hugo","Spurs","Goalkeeper",4.4,3,"1.47","2.20"
-"55","Pereyra","Roberto","Watford","Midfielder",5,3.4,"1.47","2.50"
-"56","Pérez","Ayoze","Newcastle","Forward",3.8,2.6,"1.46","1.27"
-"57","Bellerín","Héctor","Arsenal","Defender",4.6,3.2,"1.44","1.53"
-"58","Zouma","Kurt","Everton","Defender",4.6,3.2,"1.44","1.15"
-"59","Löwe","Chris","Huddersfield","Defender",4,2.8,"1.43","2.00"
-"60","Ndidi","Wilfred","Leicester","Midfielder",4,2.8,"1.43","2.00"
-"61","Luiz Rosa","Fernando","Man City","Midfielder",4.8,3.4,"1.41","1.20"
-"62","Alderweireld","Toby","Spurs","Defender",4.2,3,"1.40","2.10"
-"63","Lamela","Erik","Spurs","Midfielder",4.2,3,"1.40","2.10"
-"64","Robertson","Andrew","Liverpool","Defender",3.6,2.6,"1.38","1.80"
-"65","Nunes do Nascimento","Robert Kenedy","Newcastle","Midfielder",3.6,2.6,"1.38","1.20"
-"66","Fraser","Ryan","Bournemouth","Midfielder",4.6,3.4,"1.35","2.30"
-"67","Mahrez","Riyad","Man City","Midfielder",4.6,3.4,"1.35","1.15"
-"68","Stones","John","Man City","Defender",4.6,3.4,"1.35","1.15"
-"69","Mendy","Benjamin","Man City","Defender",4.6,3.4,"1.35","1.15"
-"70","Reid","Bobby","Cardiff","Forward",3.4,2.6,"1.31","1.70"
-"71","Shaqiri","Xherdan","Liverpool","Midfielder",3.4,2.6,"1.31","1.70"
-"72","Yedlin","DeAndre","Newcastle","Defender",3.4,2.6,"1.31","1.13"
-"73","Fernández","Federico","Newcastle","Defender",3.4,2.6,"1.31","1.13"
-"74","Aké","Nathan","Bournemouth","Defender",4.4,3.4,"1.29","2.20"
-"75","Barbosa Pereira","Ricardo Domingos","Leicester","Defender",3.6,2.8,"1.29","1.80"
-"76","Capoue","Etienne","Watford","Midfielder",4.4,3.4,"1.29","2.20"
-"77","Rashford","Marcus","Man Utd","Forward",3.8,3,"1.27","0.76"
-"78","Rodrigues Moura da Silva","Lucas","Spurs","Midfielder",3.8,3,"1.27","1.90"
-"79","Francis","Simon","Bournemouth","Defender",4.2,3.4,"1.24","2.10"
-"80","Borges Da Silva","Willian","Chelsea","Midfielder",4.2,3.4,"1.24","1.40"
-"81","Arrizabalaga","Kepa","Chelsea","Goalkeeper",4.2,3.4,"1.24","1.40"
-"82","Walker","Kyle","Man City","Defender",4.2,3.4,"1.24","1.05"
-"83","Femenía Far","Francisco","Watford","Defender",4.2,3.4,"1.24","2.10"
-"84","Gomez","Joseph","Liverpool","Defender",3.2,2.6,"1.23","1.60"
-"85","Milner","James","Liverpool","Midfielder",3.2,2.6,"1.23","1.60"
-"86","Balbuena","Fabián","West Ham","Defender",3.2,2.6,"1.23","1.60"
-"87","Pogba","Paul","Man Utd","Midfielder",3.6,3,"1.20","0.72"
-"88","Milivojevic","Luka","Crystal Palace","Midfielder",3.8,3.2,"1.19","0.95"
-"89","Cook","Steve","Bournemouth","Defender",4,3.4,"1.18","2.00"
-"90","Smith","Adam","Bournemouth","Defender",4,3.4,"1.18","2.00"
-"91","Izquierdo Mena","José Heriberto","Brighton","Midfielder",2.6,2.2,"1.18","1.30"
-"92","Camarasa","Víctor","Cardiff","Midfielder",3,2.6,"1.15","1.50"
-"93","Fabianski","Lukasz","West Ham","Goalkeeper",3,2.6,"1.15","1.50"
-"94","Boly","Willy","Wolves","Defender",3.2,2.8,"1.14","0.80"
-"95","da Silva Neves","Rúben Diogo","Wolves","Midfielder",3.2,2.8,"1.14","0.80"
-"96","Anício Caldeira Duarte","Bernard","Everton","Midfielder",3.6,3.2,"1.12","0.90"
-"97","Foster","Ben","Watford","Goalkeeper",3.8,3.4,"1.12","1.90"
-"98","Lascelles","Jamaal","Newcastle","Defender",2.8,2.6,"1.08","0.93"
-"99","Dummett","Paul","Newcastle","Defender",2.8,2.6,"1.08","0.93"
-"100","Zabaleta","Pablo","West Ham","Defender",2.8,2.6,"1.08","1.40"
-"101","Maddison","James","Leicester","Midfielder",3,2.8,"1.07","1.50"
-"102","Vardy","Jamie","Leicester","Forward",3,2.8,"1.07","1.50"
-"103","McCarthy","Alex","Southampton","Goalkeeper",3.2,3,"1.07","1.07"
-"104","Soares","Cédric","Southampton","Defender",3.2,3,"1.07","1.07"
-"105","Dier","Eric","Spurs","Midfielder",3.2,3,"1.07","1.60"
-"106","Sissoko","Moussa","Spurs","Midfielder",3.2,3,"1.07","1.60"
-"107","Bennett","Ryan","Wolves","Defender",3,2.8,"1.07","0.75"
-"108","Coady","Conor","Wolves","Defender",3,2.8,"1.07","0.75"
-"109","Holding","Rob","Arsenal","Defender",3.4,3.2,"1.06","1.13"
-"110","Azpilicueta","César","Chelsea","Defender",3.6,3.4,"1.06","1.20"
-"111","Luiz Moreira Marinho","David","Chelsea","Defender",3.6,3.4,"1.06","1.20"
-"112","Zaha","Wilfried","Crystal Palace","Forward",3.4,3.2,"1.06","0.85"
-"113","Digne","Lucas","Everton","Defender",3.4,3.2,"1.06","0.85"
-"114","Schürrle","André","Fulham","Midfielder",3.8,3.6,"1.06","0.76"
-"115","Doucouré","Abdoulaye","Watford","Midfielder",3.6,3.4,"1.06","1.80"
-"116","Ramsey","Aaron","Arsenal","Midfielder",3.2,3.2,"1.00","1.07"
-"117","King","Joshua","Bournemouth","Forward",3.4,3.4,"1.00","1.70"
-"118","Westwood","Ashley","Burnley","Midfielder",2.6,2.6,"1.00","0.87"
-"119","Coleman","Seamus","Everton","Defender",3.2,3.2,"1.00","0.80"
-"120","Lössl","Jonas","Huddersfield","Goalkeeper",2.8,2.8,"1.00","1.40"
-"121","Wijnaldum","Georginio","Liverpool","Midfielder",2.6,2.6,"1.00","1.30"
-"122","Mata","Juan","Man Utd","Midfielder",3,3,"1.00","0.60"
-"123","Shelvey","Jonjo","Newcastle","Midfielder",2.6,2.6,"1.00","0.87"
-"124","Xhaka","Granit","Arsenal","Midfielder",3,3.2,"0.94","1.00"
-"125","Stanislas","Junior","Bournemouth","Midfielder",3.2,3.4,"0.94","1.60"
-"126","Walcott","Theo","Everton","Midfielder",3,3.2,"0.94","0.75"
-"127","Veiga de Carvalho e Silva","Bernardo Mota","Man City","Midfielder",3.2,3.4,"0.94","0.80"
-"128","Hoedt","Wesley","Southampton","Defender",2.8,3,"0.93","0.93"
-"129","Rose","Danny","Spurs","Defender",2.8,3,"0.93","1.40"
-"130","Muto","Yoshinori","Newcastle","Forward",2.4,2.6,"0.92","0.80"
-"131","Jahanbakhsh","Alireza","Brighton","Midfielder",2,2.2,"0.91","1.00"
-"132","Sessegnon","Ryan","Fulham","Midfielder",3.2,3.6,"0.89","0.64"
-"133","Lerma","Jefferson","Bournemouth","Midfielder",3,3.4,"0.88","1.50"
-"134","Rodríguez Ledesma","Pedro","Chelsea","Midfielder",3,3.4,"0.88","1.00"
-"135","Kanté","N'Golo","Chelsea","Midfielder",3,3.4,"0.88","1.00"
-"136","Mariappa","Adrian","Watford","Defender",3,3.4,"0.88","1.50"
-"137","Masina","Adam","Watford","Defender",3,3.4,"0.88","1.50"
-"138","Iwobi","Alex","Arsenal","Midfielder",2.8,3.2,"0.87","0.93"
-"139","Torreira","Lucas","Arsenal","Midfielder",2.8,3.2,"0.87","0.93"
-"140","van Aanholt","Patrick","Crystal Palace","Defender",2.8,3.2,"0.87","0.70"
-"141","Townsend","Andros","Crystal Palace","Midfielder",2.8,3.2,"0.87","0.70"
-"142","De Gea","David","Man Utd","Goalkeeper",2.6,3,"0.87","0.52"
-"143","Ings","Danny","Southampton","Forward",2.6,3,"0.87","0.87"
-"144","Jorgensen","Mathias","Huddersfield","Defender",2.4,2.8,"0.86","1.20"
-"145","Morgan","Wes","Leicester","Defender",2.4,2.8,"0.86","1.20"
-"146","Ritchie","Matt","Newcastle","Midfielder",2.2,2.6,"0.85","0.73"
-"147","Diamé","Mohamed","Newcastle","Midfielder",2.2,2.6,"0.85","0.73"
-"148","Deulofeu","Gerard","Watford","Midfielder",2.8,3.4,"0.82","1.40"
-"149","Sánchez","Alexis","Man Utd","Midfielder",2.4,3,"0.80","0.48"
-"150","Stephens","Jack","Southampton","Defender",2.4,3,"0.80","0.80"
-"151","Redmond","Nathan","Southampton","Midfielder",2.4,3,"0.80","0.80"
-"152","Hadergjonaj","Florent","Huddersfield","Defender",2.2,2.8,"0.79","1.10"
-"153","Hogg","Jonathan","Huddersfield","Midfielder",2.2,2.8,"0.79","1.10"
-"154","Pritchard","Alex","Huddersfield","Midfielder",2.2,2.8,"0.79","1.10"
-"155","Gray","Demarai","Leicester","Midfielder",2.2,2.8,"0.79","1.10"
-"156","Iheanacho","Kelechi","Leicester","Forward",2.2,2.8,"0.79","1.10"
-"157","Santos Moutinho","João Filipe Iria","Wolves","Midfielder",2.2,2.8,"0.79","0.55"
-"158","Diangana","Grady","West Ham","Midfielder",2,2.6,"0.77","1.00"
-"159","Cook","Lewis","Bournemouth","Midfielder",2.6,3.4,"0.76","1.30"
-"160","Mustafi","Shkodran","Arsenal","Defender",2.4,3.2,"0.75","0.80"
-"161","McArthur","James","Crystal Palace","Midfielder",2.4,3.2,"0.75","0.60"
-"162","Tosun","Cenk","Everton","Forward",2.4,3.2,"0.75","0.60"
-"163","Stephens","Dale","Brighton","Midfielder",1.6,2.2,"0.73","0.80"
-"164","Frello Filho","Jorge Luiz","Chelsea","Midfielder",2.4,3.4,"0.71","0.80"
-"165","Mooy","Aaron","Huddersfield","Midfielder",2,2.8,"0.71","1.00"
-"166","Mendy","Nampalys","Leicester","Midfielder",2,2.8,"0.71","1.00"
-"167","Cathcart","Craig","Watford","Defender",2.4,3.4,"0.71","1.20"
-"168","Success Ajayi","Isaac","Watford","Forward",2.4,3.4,"0.71","1.20"
-"169","Cavaleiro","Ivan","Wolves","Midfielder",2,2.8,"0.71","0.50"
-"170","Costa","Hélder","Wolves","Midfielder",2,2.8,"0.71","0.50"
-"171","Leno","Bernd","Arsenal","Goalkeeper",2.2,3.2,"0.69","0.73"
-"172","Monreal","Nacho","Arsenal","Defender",2.2,3.2,"0.69","0.73"
-"173","Wood","Chris","Burnley","Forward",1.8,2.6,"0.69","0.60"
-"174","Ecuele Manga","Bruno","Cardiff","Defender",1.8,2.6,"0.69","0.90"
-"175","Firmino","Roberto","Liverpool","Forward",1.8,2.6,"0.69","0.90"
-"176","Sturridge","Daniel","Liverpool","Forward",1.8,2.6,"0.69","0.90"
-"177","Rice","Declan","West Ham","Defender",1.8,2.6,"0.69","0.90"
-"178","Diop","Issa","West Ham","Defender",1.8,2.6,"0.69","0.90"
-"179","Hernández Balcázar","Javier","West Ham","Forward",1.8,2.6,"0.69","0.90"
-"180","Seri","Jean Michael","Fulham","Midfielder",2.4,3.6,"0.67","0.48"
-"181","Bertrand","Ryan","Southampton","Defender",2,3,"0.67","0.67"
-"182","Lemina","Mario","Southampton","Midfielder",2,3,"0.67","0.67"
-"183","Elyounoussi","Mohamed","Southampton","Midfielder",2,3,"0.67","0.67"
-"184","Son","Heung-Min","Spurs","Midfielder",2,3,"0.67","1.00"
-"185","Kovacic","Mateo","Chelsea","Midfielder",2.2,3.4,"0.65","0.73"
-"186","Billing","Philip","Huddersfield","Midfielder",1.8,2.8,"0.64","0.90"
-"187","Hart","Joe","Burnley","Goalkeeper",1.6,2.6,"0.62","0.53"
-"188","Etheridge","Neil","Cardiff","Goalkeeper",1.6,2.6,"0.62","0.80"
-"189","Bamba","Sol","Cardiff","Defender",1.6,2.6,"0.62","0.80"
-"190","Harris","Kadeem","Cardiff","Midfielder",1.6,2.6,"0.62","0.80"
-"191","Gueye","Idrissa","Everton","Midfielder",2,3.2,"0.62","0.50"
-"192","Calvert-Lewin","Dominic","Everton","Forward",2,3.2,"0.62","0.50"
-"193","Antonio","Michail","West Ham","Midfielder",1.6,2.6,"0.62","0.80"
-"194","Yarmolenko","Andriy","West Ham","Midfielder",1.6,2.6,"0.62","0.80"
-"195","Davies","Ben","Spurs","Defender",1.8,3,"0.60","0.90"
-"196","Amartey","Daniel","Leicester","Midfielder",1.6,2.8,"0.57","0.80"
-"197","Kouyaté","Cheikhou","Crystal Palace","Midfielder",1.8,3.2,"0.56","0.45"
-"198","Mitrovic","Aleksandar","Fulham","Forward",2,3.6,"0.56","0.40"
-"199","Bissouma","Yves","Brighton","Midfielder",1.2,2.2,"0.55","0.60"
-"200","Cork","Jack","Burnley","Midfielder",1.4,2.6,"0.54","0.47"
-"201","Lennon","Aaron","Burnley","Midfielder",1.4,2.6,"0.54","0.47"
-"202","Hoilett","David Junior","Cardiff","Midfielder",1.4,2.6,"0.54","0.70"
-"203","Giroud","Olivier","Chelsea","Forward",1.8,3.4,"0.53","0.60"
-"204","Shaw","Luke","Man Utd","Defender",1.6,3,"0.53","0.32"
-"205","Matic","Nemanja","Man Utd","Midfielder",1.6,3,"0.53","0.32"
-"206","Højbjerg","Pierre-Emile","Southampton","Midfielder",1.6,3,"0.53","0.53"
-"207","Winks","Harry","Spurs","Midfielder",1.6,3,"0.53","0.80"
-"208","Hughes","Will","Watford","Midfielder",1.8,3.4,"0.53","0.90"
-"209","Welbeck","Danny","Arsenal","Forward",1.6,3.2,"0.50","0.53"
-"210","Hennessey","Wayne","Crystal Palace","Goalkeeper",1.6,3.2,"0.50","0.40"
-"211","Kenny","Jonjoe","Everton","Defender",1.6,3.2,"0.50","0.40"
-"212","Kongolo","Terence","Huddersfield","Defender",1.4,2.8,"0.50","0.70"
-"213","Depoitre","Laurent","Huddersfield","Forward",1.4,2.8,"0.50","0.70"
-"214","Evans","Jonny","Leicester","Defender",1.4,2.8,"0.50","0.70"
-"215","Albrighton","Marc","Leicester","Midfielder",1.4,2.8,"0.50","0.70"
-"216","Jota","Diogo","Wolves","Midfielder",1.4,2.8,"0.50","0.35"
-"217","Loftus-Cheek","Ruben","Chelsea","Midfielder",1.6,3.4,"0.47","0.53"
-"218","Young","Ashley","Man Utd","Defender",1.4,3,"0.47","0.28"
-"219","Lukaku","Romelu","Man Utd","Forward",1.4,3,"0.47","0.28"
-"220","Gazzaniga","Paulo","Spurs","Goalkeeper",1.4,3,"0.47","0.70"
-"221","Defour","Steven","Burnley","Midfielder",1.2,2.6,"0.46","0.40"
-"222","Arter","Harry","Cardiff","Midfielder",1.2,2.6,"0.46","0.60"
-"223","Alexander-Arnold","Trent","Liverpool","Defender",1.2,2.6,"0.46","0.60"
-"224","Henderson","Jordan","Liverpool","Midfielder",1.2,2.6,"0.46","0.60"
-"225","Masuaku","Arthur","West Ham","Midfielder",1.2,2.6,"0.46","0.60"
-"226","Noble","Mark","West Ham","Midfielder",1.2,2.6,"0.46","0.60"
-"227","Snodgrass","Robert","West Ham","Midfielder",1.2,2.6,"0.46","0.60"
-"228","Knockaert","Anthony","Brighton","Midfielder",1,2.2,"0.45","0.50"
-"229","Pröpper","Davy","Brighton","Midfielder",1,2.2,"0.45","0.50"
-"230","Locadia","Jürgen","Brighton","Forward",1,2.2,"0.45","0.50"
-"231","Tavares Gomes","André Filipe","Everton","Midfielder",1.4,3.2,"0.44","0.35"
-"232","Vietto","Luciano","Fulham","Forward",1.6,3.6,"0.44","0.32"
-"233","Durm","Erik","Huddersfield","Defender",1.2,2.8,"0.43","0.60"
-"234","Kompany","Vincent","Man City","Defender",1.4,3.4,"0.41","0.35"
-"235","Smalling","Chris","Man Utd","Defender",1.2,3,"0.40","0.24"
-"236","Austin","Charlie","Southampton","Forward",1.2,3,"0.40","0.40"
-"237","Zambo Anguissa","André-Frank","Fulham","Midfielder",1.4,3.6,"0.39","0.28"
-"238","Vydra","Matej","Burnley","Forward",1,2.6,"0.38","0.33"
-"239","Morrison","Sean","Cardiff","Defender",1,2.6,"0.38","0.50"
-"240","Bennett","Joe","Cardiff","Defender",1,2.6,"0.38","0.50"
-"241","Gunnarsson","Aron","Cardiff","Midfielder",1,2.6,"0.38","0.50"
-"242","Lallana","Adam","Liverpool","Midfielder",1,2.6,"0.38","0.50"
-"243","Ki","Sung-yueng","Newcastle","Midfielder",1,2.6,"0.38","0.33"
-"244","Obiang","Pedro","West Ham","Midfielder",1,2.6,"0.38","0.50"
-"245","Mkhitaryan","Henrikh","Arsenal","Midfielder",1.2,3.2,"0.37","0.40"
-"246","Wan-Bissaka","Aaron","Crystal Palace","Defender",1.2,3.2,"0.37","0.30"
-"247","Meyer","Max","Crystal Palace","Midfielder",1.2,3.2,"0.37","0.30"
-"248","Ayew","Jordan","Crystal Palace","Forward",1.2,3.2,"0.37","0.30"
-"249","Lookman","Ademola","Everton","Midfielder",1.2,3.2,"0.37","0.30"
-"250","Mounie","Steve","Huddersfield","Forward",1,2.8,"0.36","0.50"
-"251","Mbenza","Isaac","Huddersfield","Midfielder",1,2.8,"0.36","0.50"
-"252","Traoré","Adama","Wolves","Midfielder",1,2.8,"0.36","0.25"
-"253","Daniels","Charlie","Bournemouth","Defender",1.2,3.4,"0.35","0.60"
-"254","Otamendi","Nicolás","Man City","Defender",1.2,3.4,"0.35","0.30"
-"255","Long","Shane","Southampton","Forward",1,3,"0.33","0.33"
-"256","Gabbiadini","Manolo","Southampton","Forward",1,3,"0.33","0.33"
-"257","Obafemi","Michael","Southampton","Forward",1,3,"0.33","0.33"
-"258","Dembélé","Mousa","Spurs","Midfielder",1,3,"0.33","0.50"
-"259","Taylor","Charlie","Burnley","Defender",0.8,2.6,"0.31","0.27"
-"260","Brady","Robbie","Burnley","Midfielder",0.8,2.6,"0.31","0.27"
-"261","Barnes","Ashley","Burnley","Forward",0.8,2.6,"0.31","0.27"
-"262","Tomkins","James","Crystal Palace","Defender",1,3.2,"0.31","0.25"
-"263","Schlupp","Jeffrey","Crystal Palace","Defender",1,3.2,"0.31","0.25"
-"264","Sakho","Mamadou","Crystal Palace","Defender",1,3.2,"0.31","0.25"
-"265","Tavares","Fabio Henrique","Liverpool","Midfielder",0.8,2.6,"0.31","0.40"
-"266","Keita","Naby","Liverpool","Midfielder",0.8,2.6,"0.31","0.40"
-"267","Mato Sanmartín","Jose Luis","Newcastle","Forward",0.8,2.6,"0.31","0.27"
-"268","Cresswell","Aaron","West Ham","Defender",0.8,2.6,"0.31","0.40"
-"269","Gosling","Dan","Bournemouth","Midfielder",1,3.4,"0.29","0.50"
-"270","Iborra","Vicente","Leicester","Midfielder",0.8,2.8,"0.29","0.40"
-"271","Gray","Andre","Watford","Forward",1,3.4,"0.29","0.50"
-"272","Rodrigues de Paula Santos","Frederico","Man Utd","Midfielder",0.8,3,"0.27","0.16"
-"273","Davies","Tom","Everton","Midfielder",0.8,3.2,"0.25","0.20"
-"274","de Jesus","Gabriel Fernando","Man City","Forward",0.8,3.4,"0.24","0.20"
-"275","Mee","Ben","Burnley","Defender",0.6,2.6,"0.23","0.20"
-"276","Hendrick","Jeff","Burnley","Midfielder",0.6,2.6,"0.23","0.20"
-"277","Ward","Danny","Cardiff","Midfielder",0.6,2.6,"0.23","0.30"
-"278","Zohore","Kenneth","Cardiff","Forward",0.6,2.6,"0.23","0.30"
-"279","Atsu","Christian","Newcastle","Midfielder",0.6,2.6,"0.23","0.20"
-"280","Rondón","Salomón","Newcastle","Forward",0.6,2.6,"0.23","0.20"
-"281","Cairney","Tom","Fulham","Midfielder",0.8,3.6,"0.22","0.16"
-"282","Okazaki","Shinji","Leicester","Forward",0.6,2.8,"0.21","0.30"
-"283","Ghezzal","Rachid","Leicester","Midfielder",0.6,2.8,"0.21","0.30"
-"284","Bonatini","Bonatini Lohner Maia","Wolves","Forward",0.6,2.8,"0.21","0.15"
-"285","Lindelöf","Victor","Man Utd","Defender",0.6,3,"0.20","0.12"
-"286","Fellaini","Marouane","Man Utd","Midfielder",0.6,3,"0.20","0.12"
-"287","Herrera","Ander","Man Utd","Midfielder",0.6,3,"0.20","0.12"
-"288","McTominay","Scott","Man Utd","Midfielder",0.6,3,"0.20","0.12"
-"289","Romeu Vidal","Oriol","Southampton","Midfielder",0.6,3,"0.20","0.20"
-"290","Armstrong","Stuart","Southampton","Midfielder",0.6,3,"0.20","0.20"
-"291","Eriksen","Christian","Spurs","Midfielder",0.6,3,"0.20","0.30"
-"292","Guendouzi","Matteo","Arsenal","Midfielder",0.6,3.2,"0.19","0.20"
-"293","Sørloth","Alexander","Crystal Palace","Forward",0.6,3.2,"0.19","0.15"
-"294","Foden","Phil","Man City","Midfielder",0.6,3.4,"0.18","0.15"
-"295","Zinchenko","Oleksandr","Man City","Midfielder",0.6,3.4,"0.18","0.15"
-"296","Deeney","Troy","Watford","Forward",0.6,3.4,"0.18","0.30"
-"297","Odoi","Denis","Fulham","Defender",0.6,3.6,"0.17","0.12"
-"298","Johansen","Stefan","Fulham","Midfielder",0.6,3.6,"0.17","0.12"
-"299","Le Marchand","Maxime","Fulham","Defender",0.6,3.6,"0.17","0.12"
-"300","Rico","Sergio","Fulham","Goalkeeper",0.6,3.6,"0.17","0.12"
-"301","Long","Kevin","Burnley","Defender",0.4,2.6,"0.15","0.13"
-"302","Damour","Loïc","Cardiff","Midfielder",0.4,2.6,"0.15","0.20"
-"303","Madine","Gary","Cardiff","Forward",0.4,2.6,"0.15","0.20"
-"304","Moreno","Alberto","Liverpool","Defender",0.4,2.6,"0.15","0.20"
-"305","Manquillo","Javier","Newcastle","Defender",0.4,2.6,"0.15","0.13"
-"306","Murphy","Jacob","Newcastle","Midfielder",0.4,2.6,"0.15","0.13"
-"307","Ogbonna","Angelo","West Ham","Defender",0.4,2.6,"0.15","0.20"
-"308","Bacuna","Juninho","Huddersfield","Midfielder",0.4,2.8,"0.14","0.20"
-"309","Lingard","Jesse","Man Utd","Midfielder",0.4,3,"0.13","0.08"
-"310","Ward-Prowse","James","Southampton","Midfielder",0.4,3,"0.13","0.13"
-"311","Wanyama","Victor","Spurs","Midfielder",0.4,3,"0.13","0.20"
-"312","Kolasinac","Sead","Arsenal","Defender",0.4,3.2,"0.12","0.13"
-"313","Lichtsteiner","Stephan","Arsenal","Defender",0.4,3.2,"0.12","0.13"
-"314","Ibe","Jordon","Bournemouth","Midfielder",0.4,3.4,"0.12","0.20"
-"315","Fàbregas","Cesc","Chelsea","Midfielder",0.4,3.4,"0.12","0.13"
-"316","Schneiderlin","Morgan","Everton","Midfielder",0.4,3.2,"0.12","0.10"
-"317","De Bruyne","Kevin","Man City","Midfielder",0.4,3.4,"0.12","0.10"
-"318","Bettinelli","Marcus","Fulham","Goalkeeper",0.4,3.6,"0.11","0.08"
-"319","Ream","Tim","Fulham","Defender",0.4,3.6,"0.11","0.08"
-"320","McDonald","Kevin","Fulham","Midfielder",0.4,3.6,"0.11","0.08"
-"321","Ayité","Floyd","Fulham","Midfielder",0.4,3.6,"0.11","0.08"
-"322","Kamara","Aboubakar","Fulham","Forward",0.4,3.6,"0.11","0.08"
-"323","Wilmot","Ben","Watford","Defender",0.333333333333333,3.4,"0.10","0.17"
-"324","Andone","Florin","Brighton","Forward",0.2,2.2,"0.09","0.10"
-"325","Fernandes da Silva Junior","Bernardo","Brighton","Defender",0.2,2.2,"0.09","0.10"
-"326","Lowton","Matthew","Burnley","Defender",0.2,2.6,"0.08","0.07"
-"327","Tarkowski","James","Burnley","Defender",0.2,2.6,"0.08","0.07"
-"328","Richards","Ashley Darel Jazz","Cardiff","Defender",0.2,2.6,"0.08","0.10"
-"329","Matip","Joel","Liverpool","Defender",0.2,2.6,"0.08","0.10"
-"330","Clark","Ciaran","Newcastle","Defender",0.2,2.6,"0.08","0.07"
-"331","Pérez","Lucas","West Ham","Forward",0.2,2.6,"0.08","0.10"
-"332","van La Parra","Rajiv","Huddersfield","Midfielder",0.2,2.8,"0.07","0.10"
-"333","Sobhi","Ramadan","Huddersfield","Midfielder",0.2,2.8,"0.07","0.10"
-"334","Diakhaby","Adama","Huddersfield","Midfielder",0.2,2.8,"0.07","0.10"
-"335","Simpson","Danny","Leicester","Defender",0.2,2.8,"0.07","0.10"
-"336","Söyüncü","Caglar","Leicester","Defender",0.2,2.8,"0.07","0.10"
-"337","Yoshida","Maya","Southampton","Defender",0.2,3,"0.07","0.07"
-"338","Bednarek","Jan","Southampton","Defender",0.2,3,"0.07","0.07"
-"339","Vestergaard","Jannik","Southampton","Defender",0.2,3,"0.07","0.07"
-"340","Vertonghen","Jan","Spurs","Defender",0.2,3,"0.07","0.10"
-"341","Alli","Bamidele","Spurs","Midfielder",0.2,3,"0.07","0.10"
-"342","Llorente","Fernando","Spurs","Forward",0.2,3,"0.07","0.10"
-"343","Saïss","Romain","Wolves","Defender",0.2,2.8,"0.07","0.05"
-"344","Silva Nascimento Vinagre","Rúben Gonçalo","Wolves","Defender",0.2,2.8,"0.07","0.05"
-"345","Gibbs-White","Morgan","Wolves","Midfielder",0.2,2.8,"0.07","0.05"
-"346","Cech","Petr","Arsenal","Goalkeeper",0.2,3.2,"0.06","0.07"
-"347","Surman","Andrew","Bournemouth","Midfielder",0.2,3.4,"0.06","0.10"
-"348","Defoe","Jermain","Bournemouth","Forward",0.2,3.4,"0.06","0.10"
-"349","Moses","Victor","Chelsea","Defender",0.2,3.4,"0.06","0.07"
-"350","Puncheon","Jason","Crystal Palace","Midfielder",0.2,3.2,"0.06","0.05"
-"351","Wickham","Connor","Crystal Palace","Forward",0.2,3.2,"0.06","0.05"
-"352","Mina","Yerry","Everton","Defender",0.2,3.2,"0.06","0.05"
-"353","Christie","Cyrus","Fulham","Defender",0.2,3.6,"0.06","0.04"
-"354","Bryan","Joe","Fulham","Defender",0.2,3.6,"0.06","0.04"
-"355","Delph","Fabian","Man City","Defender",0.2,3.4,"0.06","0.05"
-"356","Prödl","Sebastian","Watford","Defender",0.2,3.4,"0.06","0.10"
-"357","Holebas","José","Watford","Defender",0.2,3.4,"0.06","0.10"
-"358","Navarro","Marc","Watford","Defender",0.2,3.4,"0.06","0.10"
-"359","Chalobah","Nathaniel","Watford","Midfielder",0.2,3.4,"0.06","0.10"
-"360","Sema","Ken","Watford","Midfielder",0.2,3.4,"0.06","0.10"
-"361","Koscielny","Laurent","Arsenal","Defender",0,3.2,"0.00","0.00"
-"362","Mavropanos","Konstantinos","Arsenal","Defender",0,3.2,"0.00","0.00"
-"363","Papastathopoulos","Sokratis","Arsenal","Defender",0,3.2,"0.00","0.00"
-"364","Elneny","Mohamed","Arsenal","Midfielder",0,3.2,"0.00","0.00"
-"365","Nelson","Reiss","Arsenal","Midfielder",0,3.2,"0.00","0.00"
-"366","Maitland-Niles","Ainsley","Arsenal","Midfielder",0,3.2,"0.00","0.00"
-"367","Martínez","Emiliano","Arsenal","Goalkeeper",0,3.2,"0.00","0.00"
-"368","Smith-Rowe","Emile","Arsenal","Midfielder",0,3.2,"0.00","0.00"
-"369","Medley","Zech","Arsenal","Defender",0,3.2,"0.00","0.00"
-"370","Boruc","Artur","Bournemouth","Goalkeeper",0,3.4,"0.00","0.00"
-"371","Mings","Tyrone","Bournemouth","Defender",0,3.4,"0.00","0.00"
-"372","Simpson","Jack","Bournemouth","Defender",0,3.4,"0.00","0.00"
-"373","Pugh","Marc","Bournemouth","Midfielder",0,3.4,"0.00","0.00"
-"374","Hyndman","Emerson","Bournemouth","Midfielder",0,3.4,"0.00","0.00"
-"375","Mousset","Lys","Bournemouth","Forward",0,3.4,"0.00","0.00"
-"376","Rico","Diego","Bournemouth","Defender",0,3.4,"0.00","0.00"
-"377","Suttner","Markus","Brighton","Defender",0,2.2,"0.00","0.00"
-"378","Schelotto","Ezequiel","Brighton","Defender",0,2.2,"0.00","0.00"
-"379","Balogun","Leon","Brighton","Defender",0,2.2,"0.00","0.00"
-"380","Groß","Pascal","Brighton","Midfielder",0,2.2,"0.00","0.00"
-"381","Hemed","Tomer","Brighton","Forward",0,2.2,"0.00","0.00"
-"382","Baldock","Sam","Brighton","Forward",0,2.2,"0.00","0.00"
-"383","Button","David","Brighton","Goalkeeper",0,2.2,"0.00","0.00"
-"384","Steele","Jason","Brighton","Goalkeeper",0,2.2,"0.00","0.00"
-"385","Montoya","Martín","Brighton","Defender",0,2.2,"0.00","0.00"
-"386","Heaton","Tom","Burnley","Goalkeeper",0,2.6,"0.00","0.00"
-"387","Pope","Nick","Burnley","Goalkeeper",0,2.6,"0.00","0.00"
-"388","Ward","Stephen","Burnley","Defender",0,2.6,"0.00","0.00"
-"389","Bardsley","Phil","Burnley","Defender",0,2.6,"0.00","0.00"
-"390","Walters","Jonathan","Burnley","Midfielder",0,2.6,"0.00","0.00"
-"391","Wells","Nahki","Burnley","Forward",0,2.6,"0.00","0.00"
-"392","Lindegaard","Anders","Burnley","Goalkeeper",0,2.6,"0.00","0.00"
-"393","Gibson","Ben","Burnley","Defender",0,2.6,"0.00","0.00"
-"394","McNeil","Dwight","Burnley","Midfielder",0,2.6,"0.00","0.00"
-"395","Smithies","Alex","Cardiff","Goalkeeper",0,2.6,"0.00","0.00"
-"396","Connolly","Matthew","Cardiff","Defender",0,2.6,"0.00","0.00"
-"397","Peltier","Lee","Cardiff","Defender",0,2.6,"0.00","0.00"
-"398","Halford","Greg","Cardiff","Defender",0,2.6,"0.00","0.00"
-"399","Ralls","Joe","Cardiff","Midfielder",0,2.6,"0.00","0.00"
-"400","Mendez-Laing","Nathaniel","Cardiff","Midfielder",0,2.6,"0.00","0.00"
-"401","Pilkington","Anthony","Cardiff","Midfielder",0,2.6,"0.00","0.00"
-"402","Bogle","Omar","Cardiff","Forward",0,2.6,"0.00","0.00"
-"403","Cunninghamm","Greg","Cardiff","Defender",0,2.6,"0.00","0.00"
-"404","Murphy","Brian","Cardiff","Goalkeeper",0,2.6,"0.00","0.00"
-"405","Courtois","Thibaut","Chelsea","Goalkeeper",0,3.4,"0.00","0.00"
-"406","Caballero","Willy","Chelsea","Goalkeeper",0,3.4,"0.00","0.00"
-"407","Cahill","Gary","Chelsea","Defender",0,3.4,"0.00","0.00"
-"408","Christensen","Andreas","Chelsea","Defender",0,3.4,"0.00","0.00"
-"409","Zappacosta","Davide","Chelsea","Defender",0,3.4,"0.00","0.00"
-"410","Palmieri dos Santos","Emerson","Chelsea","Defender",0,3.4,"0.00","0.00"
-"411","Drinkwater","Daniel","Chelsea","Midfielder",0,3.4,"0.00","0.00"
-"412","Bakayoko","Tiemoué","Chelsea","Midfielder",0,3.4,"0.00","0.00"
-"413","Ampadu","Ethan","Chelsea","Midfielder",0,3.4,"0.00","0.00"
-"414","Hudson-Odoi","Callum","Chelsea","Midfielder",0,3.4,"0.00","0.00"
-"415","Abraham","Tammy","Chelsea","Forward",0,3.4,"0.00","0.00"
-"416","Speroni","Julian","Crystal Palace","Goalkeeper",0,3.2,"0.00","0.00"
-"417","Guaita","Vicente","Crystal Palace","Goalkeeper",0,3.2,"0.00","0.00"
-"418","Dann","Scott","Crystal Palace","Defender",0,3.2,"0.00","0.00"
-"419","Kelly","Martin","Crystal Palace","Defender",0,3.2,"0.00","0.00"
-"420","Riedewald","Jairo","Crystal Palace","Defender",0,3.2,"0.00","0.00"
-"421","Sako","Bakary","Crystal Palace","Midfielder",0,3.2,"0.00","0.00"
-"422","Benteke","Christian","Crystal Palace","Forward",0,3.2,"0.00","0.00"
-"423","Ward","Joel","Crystal Palace","Defender",0,3.2,"0.00","0.00"
-"424","Jach","Jaroslaw","Crystal Palace","Defender",0,3.2,"0.00","0.00"
-"425","Souaré","Pape","Crystal Palace","Defender",0,3.2,"0.00","0.00"
-"426","Kaikai","Sullay","Crystal Palace","Midfielder",0,3.2,"0.00","0.00"
-"427","Stekelenburg","Maarten","Everton","Goalkeeper",0,3.2,"0.00","0.00"
-"428","Baines","Leighton","Everton","Defender",0,3.2,"0.00","0.00"
-"429","Jagielka","Phil","Everton","Defender",0,3.2,"0.00","0.00"
-"430","Williams","Ashley","Everton","Defender",0,3.2,"0.00","0.00"
-"431","Holgate","Mason","Everton","Defender",0,3.2,"0.00","0.00"
-"432","Martina","Cuco","Everton","Defender",0,3.2,"0.00","0.00"
-"433","Bolasie","Yannick","Everton","Midfielder",0,3.2,"0.00","0.00"
-"434","McCarthy","James","Everton","Midfielder",0,3.2,"0.00","0.00"
-"435","Klaassen","Davy","Everton","Midfielder",0,3.2,"0.00","0.00"
-"436","Vlasic","Nikola","Everton","Midfielder",0,3.2,"0.00","0.00"
-"437","Baningime","Beni","Everton","Midfielder",0,3.2,"0.00","0.00"
-"438","Niasse","Oumar","Everton","Forward",0,3.2,"0.00","0.00"
-"439","Mirallas","Kevin","Everton","Midfielder",0,3.2,"0.00","0.00"
-"440","Ramírez","Sandro","Everton","Forward",0,3.2,"0.00","0.00"
-"441","Dowell","Kieran","Everton","Midfielder",0,3.2,"0.00","0.00"
-"442","Browning","Tyias","Everton","Defender",0,3.2,"0.00","0.00"
-"443","Kebano","Neeskens","Fulham","Midfielder",0,3.6,"0.00","0.00"
-"444","da Rocha Fonte","Rui Pedro","Fulham","Midfielder",0,3.6,"0.00","0.00"
-"445","Agosto Ramírez","Fabricio","Fulham","Goalkeeper",0,3.6,"0.00","0.00"
-"446","Mawson","Alfie","Fulham","Defender",0,3.6,"0.00","0.00"
-"447","Fosu-Mensah","Timothy","Fulham","Defender",0,3.6,"0.00","0.00"
-"448","Cissé","Ibrahima","Fulham","Midfielder",0,3.6,"0.00","0.00"
-"449","Sessegnon","Zeze Steven","Fulham","Defender",0,3.6,"0.00","0.00"
-"450","Hamer","Ben","Huddersfield","Goalkeeper",0,2.8,"0.00","0.00"
-"451","Smith","Tommy","Huddersfield","Defender",0,2.8,"0.00","0.00"
-"452","Malone","Scott","Huddersfield","Defender",0,2.8,"0.00","0.00"
-"453","Ince","Tom","Huddersfield","Midfielder",0,2.8,"0.00","0.00"
-"454","Williams","Danny","Huddersfield","Midfielder",0,2.8,"0.00","0.00"
-"455","Sabiri","Abdelhamid","Huddersfield","Midfielder",0,2.8,"0.00","0.00"
-"456","Quaner","Collin","Huddersfield","Forward",0,2.8,"0.00","0.00"
-"457","Kachunga","Elias","Huddersfield","Forward",0,2.8,"0.00","0.00"
-"458","Stankovic","Jon Gorenc","Huddersfield","Defender",0,2.8,"0.00","0.00"
-"459","Schofield","Ryan","Huddersfield","Goalkeeper",0,2.8,"0.00","0.00"
-"460","Jakupovic","Eldin","Leicester","Goalkeeper",0,2.8,"0.00","0.00"
-"461","Fuchs","Christian","Leicester","Defender",0,2.8,"0.00","0.00"
-"462","Benalouane","Yohan","Leicester","Defender",0,2.8,"0.00","0.00"
-"463","James","Matty","Leicester","Midfielder",0,2.8,"0.00","0.00"
-"464","Choudhury","Hamza","Leicester","Midfielder",0,2.8,"0.00","0.00"
-"465","Perruchet Silva","Adrien Sebastian","Leicester","Midfielder",0,2.8,"0.00","0.00"
-"466","Diabaté","Fousseni","Leicester","Midfielder",0,2.8,"0.00","0.00"
-"467","Ward","Danny","Leicester","Goalkeeper",0,2.8,"0.00","0.00"
-"468","Benkovic","Filip","Leicester","Defender",0,2.8,"0.00","0.00"
-"469","Mignolet","Simon","Liverpool","Goalkeeper",0,2.6,"0.00","0.00"
-"470","Karius","Loris","Liverpool","Goalkeeper",0,2.6,"0.00","0.00"
-"471","Clyne","Nathaniel","Liverpool","Defender",0,2.6,"0.00","0.00"
-"472","Klavan","Ragnar","Liverpool","Defender",0,2.6,"0.00","0.00"
-"473","Oxlade-Chamberlain","Alex","Liverpool","Midfielder",0,2.6,"0.00","0.00"
-"474","Solanke","Dominic","Liverpool","Forward",0,2.6,"0.00","0.00"
-"475","Origi","Divock","Liverpool","Forward",0,2.6,"0.00","0.00"
-"476","Bravo","Claudio","Man City","Goalkeeper",0,3.4,"0.00","0.00"
-"477","da Silva","Danilo Luiz","Man City","Defender",0,3.4,"0.00","0.00"
-"478","Gündogan","Ilkay","Man City","Midfielder",0,3.4,"0.00","0.00"
-"479","Diaz","Brahim","Man City","Midfielder",0,3.4,"0.00","0.00"
-"480","Muric","Arijanet","Man City","Goalkeeper",0,3.4,"0.00","0.00"
-"481","Romero","Sergio","Man Utd","Goalkeeper",0,3,"0.00","0.00"
-"482","Jones","Phil","Man Utd","Defender",0,3,"0.00","0.00"
-"483","Rojo","Marcos","Man Utd","Defender",0,3,"0.00","0.00"
-"484","Valencia","Antonio","Man Utd","Defender",0,3,"0.00","0.00"
-"485","Darmian","Matteo","Man Utd","Defender",0,3,"0.00","0.00"
-"486","Blind","Daley","Man Utd","Defender",0,3,"0.00","0.00"
-"487","Bailly","Eric","Man Utd","Defender",0,3,"0.00","0.00"
-"488","Dalot Teixeira","José Diogo","Man Utd","Defender",0,3,"0.00","0.00"
-"489","Pereira","Andreas","Man Utd","Midfielder",0,3,"0.00","0.00"
-"490","Grant","Lee","Man Utd","Goalkeeper",0,3,"0.00","0.00"
-"491","Elliot","Robert","Newcastle","Goalkeeper",0,2.6,"0.00","0.00"
-"492","Darlow","Karl","Newcastle","Goalkeeper",0,2.6,"0.00","0.00"
-"493","Lejeune","Florian","Newcastle","Defender",0,2.6,"0.00","0.00"
-"494","Mbemba","Chancel","Newcastle","Defender",0,2.6,"0.00","0.00"
-"495","Merino","Mikel","Newcastle","Midfielder",0,2.6,"0.00","0.00"
-"496","Hayden","Isaac","Newcastle","Midfielder",0,2.6,"0.00","0.00"
-"497","Gayle","Dwight","Newcastle","Forward",0,2.6,"0.00","0.00"
-"498","Schär","Fabian","Newcastle","Defender",0,2.6,"0.00","0.00"
-"499","Sterry","Jamie","Newcastle","Defender",0,2.6,"0.00","0.00"
-"500","Longstaff","Sean","Newcastle","Midfielder",0,2.6,"0.00","0.00"
-"501","Forster","Fraser","Southampton","Goalkeeper",0,3,"0.00","0.00"
-"502","McQueen","Sam","Southampton","Defender",0,3,"0.00","0.00"
-"503","Davis","Steven","Southampton","Midfielder",0,3,"0.00","0.00"
-"504","Boufal","Sofiane","Southampton","Midfielder",0,3,"0.00","0.00"
-"505","Sims","Joshua","Southampton","Midfielder",0,3,"0.00","0.00"
-"506","Carrillo","Guido","Southampton","Forward",0,3,"0.00","0.00"
-"507","Gunn","Angus","Southampton","Goalkeeper",0,3,"0.00","0.00"
-"508","Targett","Matt","Southampton","Defender",0,3,"0.00","0.00"
-"509","Vorm","Michel","Spurs","Goalkeeper",0,3,"0.00","0.00"
-"510","Walker-Peters","Kyle","Spurs","Defender",0,3,"0.00","0.00"
-"511","Aurier","Serge","Spurs","Defender",0,3,"0.00","0.00"
-"512","Nkoudou","Georges-Kévin","Spurs","Midfielder",0,3,"0.00","0.00"
-"513","Amos","Luke","Spurs","Midfielder",0,3,"0.00","0.00"
-"514","Whiteman","Alfie","Spurs","Goalkeeper",0,3,"0.00","0.00"
-"515","Skipp","Oliver","Spurs","Midfielder",0,3,"0.00","0.00"
-"516","Foyth","Juan","Spurs","Defender",0,3,"0.00","0.00"
-"517","Gomes","Heurelho","Watford","Goalkeeper",0,3.4,"0.00","0.00"
-"518","Dahlberg","Pontus","Watford","Goalkeeper",0,3.4,"0.00","0.00"
-"519","Kaboul","Younes","Watford","Defender",0,3.4,"0.00","0.00"
-"520","Britos","Miguel","Watford","Defender",0,3.4,"0.00","0.00"
-"521","Janmaat","Daryl","Watford","Defender",0,3.4,"0.00","0.00"
-"522","Zeegelaar","Marvin","Watford","Defender",0,3.4,"0.00","0.00"
-"523","Cleverley","Tom","Watford","Midfielder",0,3.4,"0.00","0.00"
-"524","Okaka","Stefano","Watford","Forward",0,3.4,"0.00","0.00"
-"525","Sinclair","Jerome","Watford","Forward",0,3.4,"0.00","0.00"
-"526","Quina","Domingos","Watford","Midfielder",0,3.4,"0.00","0.00"
-"527","San Miguel del Castillo","Adrián","West Ham","Goalkeeper",0,2.6,"0.00","0.00"
-"528","Reid","Winston","West Ham","Defender",0,2.6,"0.00","0.00"
-"529","Byram","Sam","West Ham","Defender",0,2.6,"0.00","0.00"
-"530","Oxford","Reece","West Ham","Defender",0,2.6,"0.00","0.00"
-"531","Fredericks","Ryan","West Ham","Defender",0,2.6,"0.00","0.00"
-"532","Lanzini","Manuel","West Ham","Midfielder",0,2.6,"0.00","0.00"
-"533","Fernandes","Edimilson","West Ham","Midfielder",0,2.6,"0.00","0.00"
-"534","Carroll","Andy","West Ham","Forward",0,2.6,"0.00","0.00"
-"535","Hugill","Jordan","West Ham","Forward",0,2.6,"0.00","0.00"
-"536","Wilshere","Jack","West Ham","Midfielder",0,2.6,"0.00","0.00"
-"537","Sánchez","Carlos","West Ham","Midfielder",0,2.6,"0.00","0.00"
-"538","Powell","Joe","West Ham","Midfielder",0,2.6,"0.00","0.00"
-"539","Coventry","Conor","West Ham","Midfielder",0,2.6,"0.00","0.00"
-"540","Ruddy","John","Wolves","Goalkeeper",0,2.8,"0.00","0.00"
-"541","Norris","Will","Wolves","Goalkeeper",0,2.8,"0.00","0.00"
-"542","Douglas","Barry","Wolves","Defender",0,2.8,"0.00","0.00"
-"543","Batth","Danny","Wolves","Defender",0,2.8,"0.00","0.00"
-"544","Gonçalves Miranda","Roderick Jefferson","Wolves","Defender",0,2.8,"0.00","0.00"
-"545","Enobakhare","Bright","Wolves","Midfielder",0,2.8,"0.00","0.00"
-"546","Mir","Rafa","Wolves","Forward",0,2.8,"0.00","0.00"
-"547","Dendoncker","Leander","Wolves","Midfielder",0,2.8,"0.00","0.00"
-"548","Hause","Kortney","Wolves","Defender",0,2.8,"0.00","0.00"
-"549","Kabasele","Christian","Watford","Defender",-0.4,3.4,"-0.12","-0.20"
-"550","Chambers","Calum","Fulham","Defender",-0.2,3.6,"-0.06","-0.04"
+"","X1","second_name","first_name","team_name","position","mean_points_last_5","difficulty_next_5","t_score","t_score_cpt","id"
+"1",1,"Martial","Anthony","Man Utd","Midfielder",9.8,3,3.27,1.96,301
+"2",2,"Ryan","Mathew","Brighton","Goalkeeper",6.8,2.2,3.09,3.4,47
+"3",3,"Sterling","Raheem","Man City","Midfielder",8.8,3.4,2.59,2.2,270
+"4",4,"Sigurdsson","Gylfi","Everton","Midfielder",8,3.2,2.5,2,172
+"5",5,"Aubameyang","Pierre-Emerick","Arsenal","Forward",7.8,3.2,2.44,2.6,23
+"6",6,"Dunk","Lewis","Brighton","Defender",5.2,2.2,2.36,2.6,48
+"7",7,"Saltor Grau","Bruno","Brighton","Defender",5.2,2.2,2.36,2.6,50
+"8",8,"Wilson","Callum","Bournemouth","Forward",8,3.4,2.35,4,43
+"9",9,"Gudmundsson","Johann Berg","Burnley","Midfielder",6,2.6,2.31,2,76
+"10",10,"Salah","Mohamed","Liverpool","Midfielder",6,2.6,2.31,3,253
+"11",11,"Barkley","Ross","Chelsea","Midfielder",7.8,3.4,2.29,2.6,127
+"12",12,"Pickford","Jordan","Everton","Goalkeeper",7.2,3.2,2.25,1.8,154
+"13",13,"Pereira Gomes","Felipe Anderson","West Ham","Midfielder",5.8,2.6,2.23,2.9,465
+"14",14,"Doherty","Matt","Wolves","Defender",6.2,2.8,2.21,1.55,425
+"15",15,"de Andrade","Richarlison","Everton","Midfielder",6.6,3.2,2.06,1.65,393
+"16",16,"Trippier","Kieran","Spurs","Defender",6,3,2,3,357
+"17",17,"Bong","Gaëtan","Brighton","Defender",4,2.2,1.82,2,51
+"18",18,"Murray","Glenn","Brighton","Forward",4,2.2,1.82,2,62
+"19",19,"Sánchez","Davinson","Spurs","Defender",5.4,3,1.8,2.7,359
+"20",20,"Jiménez","Raúl","Wolves","Forward",5,2.8,1.79,1.25,437
+"21",21,"Santana de Moraes","Ederson","Man City","Goalkeeper",6,3.4,1.76,1.5,260
+"22",22,"Agüero","Sergio","Man City","Forward",6,3.4,1.76,1.5,280
+"23",23,"Duffy","Shane","Brighton","Defender",3.8,2.2,1.73,1.9,49
+"24",24,"Hazard","Eden","Chelsea","Midfielder",5.8,3.4,1.71,1.93,122
+"25",25,"Chilwell","Benjamin","Leicester","Defender",4.8,2.8,1.71,2.4,219
+"26",26,"dos Santos Patrício","Rui Pedro","Wolves","Goalkeeper",4.8,2.8,1.71,1.2,454
+"27",27,"Lacazette","Alexandre","Arsenal","Forward",5.4,3.2,1.69,1.8,22
+"28",28,"Vokes","Sam","Burnley","Forward",4.4,2.6,1.69,1.47,84
+"29",29,"Dubravka","Martin","Newcastle","Goalkeeper",4.4,2.6,1.69,1.47,309
+"30",30,"Kane","Harry","Spurs","Forward",5,3,1.67,2.5,372
+"31",31,"Sané","Leroy","Man City","Midfielder",5.6,3.4,1.65,1.4,275
+"32",32,"Kayal","Beram","Brighton","Midfielder",3.6,2.2,1.64,1.8,57
+"33",33,"Schindler","Christopher","Huddersfield","Defender",4.6,2.8,1.64,2.3,192
+"34",34,"Maguire","Harry","Leicester","Defender",4.6,2.8,1.64,2.3,220
+"35",35,"Castro Otto","Jonathan","Wolves","Defender",4.6,2.8,1.64,1.15,483
+"36",36,"Özil","Mesut","Arsenal","Midfielder",5.2,3.2,1.62,1.73,13
+"37",37,"Murphy","Josh","Cardiff","Midfielder",4.2,2.6,1.62,2.1,106
+"38",38,"Mané","Sadio","Liverpool","Midfielder",4.2,2.6,1.62,2.1,251
+"39",39,"Arnautovic","Marko","West Ham","Forward",4.2,2.6,1.62,2.1,417
+"40",40,"Rüdiger","Antonio","Chelsea","Defender",5.4,3.4,1.59,1.8,118
+"41",41,"March","Solomon","Brighton","Midfielder",3.4,2.2,1.55,1.7,58
+"42",42,"Paterson","Callum","Cardiff","Midfielder",4,2.6,1.54,2,101
+"43",43,"Lovren","Dejan","Liverpool","Defender",4,2.6,1.54,2,239
+"44",44,"van Dijk","Virgil","Liverpool","Defender",4,2.6,1.54,2,246
+"45",45,"Ramses Becker","Alisson","Liverpool","Goalkeeper",4,2.6,1.54,2,468
+"46",46,"Brooks","David","Bournemouth","Midfielder",5.2,3.4,1.53,2.6,42
+"47",47,"Alonso","Marcos","Chelsea","Defender",5.2,3.4,1.53,1.73,115
+"48",48,"Morata","Álvaro","Chelsea","Forward",5.2,3.4,1.53,1.73,134
+"49",49,"Laporte","Aymeric","Man City","Defender",5.2,3.4,1.53,1.3,268
+"50",50,"Keane","Michael","Everton","Defender",4.8,3.2,1.5,1.2,162
+"51",51,"Schmeichel","Kasper","Leicester","Goalkeeper",4.2,2.8,1.5,2.1,213
+"52",52,"Begovic","Asmir","Bournemouth","Goalkeeper",5,3.4,1.47,2.5,24
+"53",53,"Silva","David","Man City","Midfielder",5,3.4,1.47,1.25,271
+"54",54,"Lloris","Hugo","Spurs","Goalkeeper",4.4,3,1.47,2.2,351
+"55",55,"Pereyra","Roberto","Watford","Midfielder",5,3.4,1.47,2.5,391
+"56",56,"Pérez","Ayoze","Newcastle","Forward",3.8,2.6,1.46,1.27,326
+"57",57,"Bellerín","Héctor","Arsenal","Defender",4.6,3.2,1.44,1.53,4
+"58",58,"Zouma","Kurt","Everton","Defender",4.6,3.2,1.44,1.15,526
+"59",59,"Löwe","Chris","Huddersfield","Defender",4,2.8,1.43,2,193
+"60",60,"Ndidi","Wilfred","Leicester","Midfielder",4,2.8,1.43,2,227
+"61",61,"Luiz Rosa","Fernando","Man City","Midfielder",4.8,3.4,1.41,1.2,272
+"62",62,"Alderweireld","Toby","Spurs","Defender",4.2,3,1.4,2.1,353
+"63",63,"Lamela","Erik","Spurs","Midfielder",4.2,3,1.4,2.1,363
+"64",64,"Robertson","Andrew","Liverpool","Defender",3.6,2.6,1.38,1.8,247
+"65",65,"Nunes do Nascimento","Robert Kenedy","Newcastle","Midfielder",3.6,2.6,1.38,1.2,458
+"66",66,"Fraser","Ryan","Bournemouth","Midfielder",4.6,3.4,1.35,2.3,40
+"67",67,"Mahrez","Riyad","Man City","Midfielder",4.6,3.4,1.35,1.15,223
+"68",68,"Stones","John","Man City","Defender",4.6,3.4,1.35,1.15,262
+"69",69,"Mendy","Benjamin","Man City","Defender",4.6,3.4,1.35,1.15,267
+"70",70,"Reid","Bobby","Cardiff","Forward",3.4,2.6,1.31,1.7,110
+"71",71,"Shaqiri","Xherdan","Liverpool","Midfielder",3.4,2.6,1.31,1.7,462
+"72",72,"Yedlin","DeAndre","Newcastle","Defender",3.4,2.6,1.31,1.13,310
+"73",73,"Fernández","Federico","Newcastle","Defender",3.4,2.6,1.31,1.13,516
+"74",74,"Aké","Nathan","Bournemouth","Defender",4.4,3.4,1.29,2.2,31
+"75",75,"Barbosa Pereira","Ricardo Domingos","Leicester","Defender",3.6,2.8,1.29,1.8,221
+"76",76,"Capoue","Etienne","Watford","Midfielder",4.4,3.4,1.29,2.2,389
+"77",77,"Rashford","Marcus","Man Utd","Forward",3.8,3,1.27,0.76,305
+"78",78,"Rodrigues Moura da Silva","Lucas","Spurs","Midfielder",3.8,3,1.27,1.9,370
+"79",79,"Francis","Simon","Bournemouth","Defender",4.2,3.4,1.24,2.1,26
+"80",80,"Borges Da Silva","Willian","Chelsea","Midfielder",4.2,3.4,1.24,1.4,124
+"81",81,"Arrizabalaga","Kepa","Chelsea","Goalkeeper",4.2,3.4,1.24,1.4,498
+"82",82,"Walker","Kyle","Man City","Defender",4.2,3.4,1.24,1.05,265
+"83",83,"Femenía Far","Francisco","Watford","Defender",4.2,3.4,1.24,2.1,383
+"84",84,"Gomez","Joseph","Liverpool","Defender",3.2,2.6,1.23,1.6,242
+"85",85,"Milner","James","Liverpool","Midfielder",3.2,2.6,1.23,1.6,254
+"86",86,"Balbuena","Fabián","West Ham","Defender",3.2,2.6,1.23,1.6,464
+"87",87,"Pogba","Paul","Man Utd","Midfielder",3.6,3,1.2,0.72,302
+"88",88,"Milivojevic","Luka","Crystal Palace","Midfielder",3.8,3.2,1.19,0.95,150
+"89",89,"Cook","Steve","Bournemouth","Defender",4,3.4,1.18,2,27
+"90",90,"Smith","Adam","Bournemouth","Defender",4,3.4,1.18,2,29
+"91",91,"Izquierdo Mena","José Heriberto","Brighton","Midfielder",2.6,2.2,1.18,1.3,61
+"92",92,"Camarasa","Víctor","Cardiff","Midfielder",3,2.6,1.15,1.5,504
+"93",93,"Fabianski","Lukasz","West Ham","Goalkeeper",3,2.6,1.15,1.5,400
+"94",94,"Boly","Willy","Wolves","Defender",3.2,2.8,1.14,0.8,423
+"95",95,"da Silva Neves","Rúben Diogo","Wolves","Midfielder",3.2,2.8,1.14,0.8,433
+"96",96,"Anício Caldeira Duarte","Bernard","Everton","Midfielder",3.6,3.2,1.12,0.9,507
+"97",97,"Foster","Ben","Watford","Goalkeeper",3.8,3.4,1.12,1.9,445
+"98",98,"Lascelles","Jamaal","Newcastle","Defender",2.8,2.6,1.08,0.93,312
+"99",99,"Dummett","Paul","Newcastle","Defender",2.8,2.6,1.08,0.93,313
+"100",100,"Zabaleta","Pablo","West Ham","Defender",2.8,2.6,1.08,1.4,405
+"101",101,"Maddison","James","Leicester","Midfielder",3,2.8,1.07,1.5,233
+"102",102,"Vardy","Jamie","Leicester","Forward",3,2.8,1.07,1.5,234
+"103",103,"McCarthy","Alex","Southampton","Goalkeeper",3.2,3,1.07,1.07,328
+"104",104,"Soares","Cédric","Southampton","Defender",3.2,3,1.07,1.07,332
+"105",105,"Dier","Eric","Spurs","Midfielder",3.2,3,1.07,1.6,361
+"106",106,"Sissoko","Moussa","Spurs","Midfielder",3.2,3,1.07,1.6,369
+"107",107,"Bennett","Ryan","Wolves","Defender",3,2.8,1.07,0.75,427
+"108",108,"Coady","Conor","Wolves","Defender",3,2.8,1.07,0.75,430
+"109",109,"Holding","Rob","Arsenal","Defender",3.4,3.2,1.06,1.13,6
+"110",110,"Azpilicueta","César","Chelsea","Defender",3.6,3.4,1.06,1.2,113
+"111",111,"Luiz Moreira Marinho","David","Chelsea","Defender",3.6,3.4,1.06,1.2,116
+"112",112,"Zaha","Wilfried","Crystal Palace","Forward",3.4,3.2,1.06,0.85,151
+"113",113,"Digne","Lucas","Everton","Defender",3.4,3.2,1.06,0.85,484
+"114",114,"Schürrle","André","Fulham","Midfielder",3.8,3.6,1.06,0.76,478
+"115",115,"Doucouré","Abdoulaye","Watford","Midfielder",3.6,3.4,1.06,1.8,390
+"116",116,"Ramsey","Aaron","Arsenal","Midfielder",3.2,3.2,1,1.07,14
+"117",117,"King","Joshua","Bournemouth","Forward",3.4,3.4,1,1.7,45
+"118",118,"Westwood","Ashley","Burnley","Midfielder",2.6,2.6,1,0.87,80
+"119",119,"Coleman","Seamus","Everton","Defender",3.2,3.2,1,0.8,157
+"120",120,"Lössl","Jonas","Huddersfield","Goalkeeper",2.8,2.8,1,1.4,191
+"121",121,"Wijnaldum","Georginio","Liverpool","Midfielder",2.6,2.6,1,1.3,252
+"122",122,"Mata","Juan","Man Utd","Midfielder",3,3,1,0.6,297
+"123",123,"Shelvey","Jonjo","Newcastle","Midfielder",2.6,2.6,1,0.87,318
+"124",124,"Xhaka","Granit","Arsenal","Midfielder",3,3.2,0.94,1,17
+"125",125,"Stanislas","Junior","Bournemouth","Midfielder",3.2,3.4,0.94,1.6,36
+"126",126,"Walcott","Theo","Everton","Midfielder",3,3.2,0.94,0.75,164
+"127",127,"Veiga de Carvalho e Silva","Bernardo Mota","Man City","Midfielder",3.2,3.4,0.94,0.8,276
+"128",128,"Hoedt","Wesley","Southampton","Defender",2.8,3,0.93,0.93,336
+"129",129,"Rose","Danny","Spurs","Defender",2.8,3,0.93,1.4,354
+"130",130,"Muto","Yoshinori","Newcastle","Forward",2.4,2.6,0.92,0.8,488
+"131",131,"Jahanbakhsh","Alireza","Brighton","Midfielder",2,2.2,0.91,1,476
+"132",132,"Sessegnon","Ryan","Fulham","Midfielder",3.2,3.6,0.89,0.64,184
+"133",133,"Lerma","Jefferson","Bournemouth","Midfielder",3,3.4,0.88,1.5,494
+"134",134,"Rodríguez Ledesma","Pedro","Chelsea","Midfielder",3,3.4,0.88,1,125
+"135",135,"Kanté","N'Golo","Chelsea","Midfielder",3,3.4,0.88,1,126
+"136",136,"Mariappa","Adrian","Watford","Defender",3,3.4,0.88,1.5,382
+"137",137,"Masina","Adam","Watford","Defender",3,3.4,0.88,1.5,386
+"138",138,"Iwobi","Alex","Arsenal","Midfielder",2.8,3.2,0.87,0.93,15
+"139",139,"Torreira","Lucas","Arsenal","Midfielder",2.8,3.2,0.87,0.93,450
+"140",140,"van Aanholt","Patrick","Crystal Palace","Defender",2.8,3.2,0.87,0.7,142
+"141",141,"Townsend","Andros","Crystal Palace","Midfielder",2.8,3.2,0.87,0.7,149
+"142",142,"De Gea","David","Man Utd","Goalkeeper",2.6,3,0.87,0.52,282
+"143",143,"Ings","Danny","Southampton","Forward",2.6,3,0.87,0.87,258
+"144",144,"Jorgensen","Mathias","Huddersfield","Defender",2.4,2.8,0.86,1.2,195
+"145",145,"Morgan","Wes","Leicester","Defender",2.4,2.8,0.86,1.2,215
+"146",146,"Ritchie","Matt","Newcastle","Midfielder",2.2,2.6,0.85,0.73,317
+"147",147,"Diamé","Mohamed","Newcastle","Midfielder",2.2,2.6,0.85,0.73,319
+"148",148,"Deulofeu","Gerard","Watford","Midfielder",2.8,3.4,0.82,1.4,394
+"149",149,"Sánchez","Alexis","Man Utd","Midfielder",2.4,3,0.8,0.48,295
+"150",150,"Stephens","Jack","Southampton","Defender",2.4,3,0.8,0.8,333
+"151",151,"Redmond","Nathan","Southampton","Midfielder",2.4,3,0.8,0.8,343
+"152",152,"Hadergjonaj","Florent","Huddersfield","Defender",2.2,2.8,0.79,1.1,197
+"153",153,"Hogg","Jonathan","Huddersfield","Midfielder",2.2,2.8,0.79,1.1,201
+"154",154,"Pritchard","Alex","Huddersfield","Midfielder",2.2,2.8,0.79,1.1,206
+"155",155,"Gray","Demarai","Leicester","Midfielder",2.2,2.8,0.79,1.1,225
+"156",156,"Iheanacho","Kelechi","Leicester","Forward",2.2,2.8,0.79,1.1,236
+"157",157,"Santos Moutinho","João Filipe Iria","Wolves","Midfielder",2.2,2.8,0.79,0.55,475
+"158",158,"Diangana","Grady","West Ham","Midfielder",2,2.6,0.77,1,539
+"159",159,"Cook","Lewis","Bournemouth","Midfielder",2.6,3.4,0.76,1.3,39
+"160",160,"Mustafi","Shkodran","Arsenal","Defender",2.4,3.2,0.75,0.8,7
+"161",161,"McArthur","James","Crystal Palace","Midfielder",2.4,3.2,0.75,0.6,147
+"162",162,"Tosun","Cenk","Everton","Forward",2.4,3.2,0.75,0.6,177
+"163",163,"Stephens","Dale","Brighton","Midfielder",1.6,2.2,0.73,0.8,56
+"164",164,"Frello Filho","Jorge Luiz","Chelsea","Midfielder",2.4,3.4,0.71,0.8,459
+"165",165,"Mooy","Aaron","Huddersfield","Midfielder",2,2.8,0.71,1,199
+"166",166,"Mendy","Nampalys","Leicester","Midfielder",2,2.8,0.71,1,527
+"167",167,"Cathcart","Craig","Watford","Defender",2.4,3.4,0.71,1.2,376
+"168",168,"Success Ajayi","Isaac","Watford","Forward",2.4,3.4,0.71,1.2,524
+"169",169,"Cavaleiro","Ivan","Wolves","Midfielder",2,2.8,0.71,0.5,434
+"170",170,"Costa","Hélder","Wolves","Midfielder",2,2.8,0.71,0.5,435
+"171",171,"Leno","Bernd","Arsenal","Goalkeeper",2.2,3.2,0.69,0.73,2
+"172",172,"Monreal","Nacho","Arsenal","Defender",2.2,3.2,0.69,0.73,5
+"173",173,"Wood","Chris","Burnley","Forward",1.8,2.6,0.69,0.6,87
+"174",174,"Ecuele Manga","Bruno","Cardiff","Defender",1.8,2.6,0.69,0.9,92
+"175",175,"Firmino","Roberto","Liverpool","Forward",1.8,2.6,0.69,0.9,257
+"176",176,"Sturridge","Daniel","Liverpool","Forward",1.8,2.6,0.69,0.9,472
+"177",177,"Rice","Declan","West Ham","Defender",1.8,2.6,0.69,0.9,406
+"178",178,"Diop","Issa","West Ham","Defender",1.8,2.6,0.69,0.9,409
+"179",179,"Hernández Balcázar","Javier","West Ham","Forward",1.8,2.6,0.69,0.9,419
+"180",180,"Seri","Jean Michael","Fulham","Midfielder",2.4,3.6,0.67,0.48,456
+"181",181,"Bertrand","Ryan","Southampton","Defender",2,3,0.67,0.67,330
+"182",182,"Lemina","Mario","Southampton","Midfielder",2,3,0.67,0.67,344
+"183",183,"Elyounoussi","Mohamed","Southampton","Midfielder",2,3,0.67,0.67,346
+"184",184,"Son","Heung-Min","Spurs","Midfielder",2,3,0.67,1,367
+"185",185,"Kovacic","Mateo","Chelsea","Midfielder",2.2,3.4,0.65,0.73,499
+"186",186,"Billing","Philip","Huddersfield","Midfielder",1.8,2.8,0.64,0.9,202
+"187",187,"Hart","Joe","Burnley","Goalkeeper",1.6,2.6,0.62,0.53,490
+"188",188,"Etheridge","Neil","Cardiff","Goalkeeper",1.6,2.6,0.62,0.8,88
+"189",189,"Bamba","Sol","Cardiff","Defender",1.6,2.6,0.62,0.8,91
+"190",190,"Harris","Kadeem","Cardiff","Midfielder",1.6,2.6,0.62,0.8,535
+"191",191,"Gueye","Idrissa","Everton","Midfielder",2,3.2,0.62,0.5,168
+"192",192,"Calvert-Lewin","Dominic","Everton","Forward",2,3.2,0.62,0.5,175
+"193",193,"Antonio","Michail","West Ham","Midfielder",1.6,2.6,0.62,0.8,415
+"194",194,"Yarmolenko","Andriy","West Ham","Midfielder",1.6,2.6,0.62,0.8,453
+"195",195,"Davies","Ben","Spurs","Defender",1.8,3,0.6,0.9,356
+"196",196,"Amartey","Daniel","Leicester","Midfielder",1.6,2.8,0.57,0.8,226
+"197",197,"Kouyaté","Cheikhou","Crystal Palace","Midfielder",1.8,3.2,0.56,0.45,412
+"198",198,"Mitrovic","Aleksandar","Fulham","Forward",2,3.6,0.56,0.4,480
+"199",199,"Bissouma","Yves","Brighton","Midfielder",1.2,2.2,0.55,0.6,466
+"200",200,"Cork","Jack","Burnley","Midfielder",1.4,2.6,0.54,0.47,82
+"201",201,"Lennon","Aaron","Burnley","Midfielder",1.4,2.6,0.54,0.47,83
+"202",202,"Hoilett","David Junior","Cardiff","Midfielder",1.4,2.6,0.54,0.7,99
+"203",203,"Giroud","Olivier","Chelsea","Forward",1.8,3.4,0.53,0.6,133
+"204",204,"Shaw","Luke","Man Utd","Defender",1.6,3,0.53,0.32,286
+"205",205,"Matic","Nemanja","Man Utd","Midfielder",1.6,3,0.53,0.32,296
+"206",206,"Højbjerg","Pierre-Emile","Southampton","Midfielder",1.6,3,0.53,0.53,340
+"207",207,"Winks","Harry","Spurs","Midfielder",1.6,3,0.53,0.8,368
+"208",208,"Hughes","Will","Watford","Midfielder",1.8,3.4,0.53,0.9,392
+"209",209,"Welbeck","Danny","Arsenal","Forward",1.6,3.2,0.5,0.53,21
+"210",210,"Hennessey","Wayne","Crystal Palace","Goalkeeper",1.6,3.2,0.5,0.4,135
+"211",211,"Kenny","Jonjoe","Everton","Defender",1.6,3.2,0.5,0.4,161
+"212",212,"Kongolo","Terence","Huddersfield","Defender",1.4,2.8,0.5,0.7,198
+"213",213,"Depoitre","Laurent","Huddersfield","Forward",1.4,2.8,0.5,0.7,210
+"214",214,"Evans","Jonny","Leicester","Defender",1.4,2.8,0.5,0.7,222
+"215",215,"Albrighton","Marc","Leicester","Midfielder",1.4,2.8,0.5,0.7,224
+"216",216,"Jota","Diogo","Wolves","Midfielder",1.4,2.8,0.5,0.35,432
+"217",217,"Loftus-Cheek","Ruben","Chelsea","Midfielder",1.6,3.4,0.47,0.53,132
+"218",218,"Young","Ashley","Man Utd","Defender",1.4,3,0.47,0.28,293
+"219",219,"Lukaku","Romelu","Man Utd","Forward",1.4,3,0.47,0.28,306
+"220",220,"Gazzaniga","Paulo","Spurs","Goalkeeper",1.4,3,0.47,0.7,536
+"221",221,"Defour","Steven","Burnley","Midfielder",1.2,2.6,0.46,0.4,77
+"222",222,"Arter","Harry","Cardiff","Midfielder",1.2,2.6,0.46,0.6,33
+"223",223,"Alexander-Arnold","Trent","Liverpool","Defender",1.2,2.6,0.46,0.6,245
+"224",224,"Henderson","Jordan","Liverpool","Midfielder",1.2,2.6,0.46,0.6,249
+"225",225,"Masuaku","Arthur","West Ham","Midfielder",1.2,2.6,0.46,0.6,410
+"226",226,"Noble","Mark","West Ham","Midfielder",1.2,2.6,0.46,0.6,411
+"227",227,"Snodgrass","Robert","West Ham","Midfielder",1.2,2.6,0.46,0.6,489
+"228",228,"Knockaert","Anthony","Brighton","Midfielder",1,2.2,0.45,0.5,55
+"229",229,"Pröpper","Davy","Brighton","Midfielder",1,2.2,0.45,0.5,60
+"230",230,"Locadia","Jürgen","Brighton","Forward",1,2.2,0.45,0.5,65
+"231",231,"Tavares Gomes","André Filipe","Everton","Midfielder",1.4,3.2,0.44,0.35,508
+"232",232,"Vietto","Luciano","Fulham","Forward",1.6,3.6,0.44,0.32,513
+"233",233,"Durm","Erik","Huddersfield","Defender",1.2,2.8,0.43,0.6,461
+"234",234,"Kompany","Vincent","Man City","Defender",1.4,3.4,0.41,0.35,263
+"235",235,"Smalling","Chris","Man Utd","Defender",1.2,3,0.4,0.24,284
+"236",236,"Austin","Charlie","Southampton","Forward",1.2,3,0.4,0.4,348
+"237",237,"Zambo Anguissa","André-Frank","Fulham","Midfielder",1.4,3.6,0.39,0.28,512
+"238",238,"Vydra","Matej","Burnley","Forward",1,2.6,0.38,0.33,495
+"239",239,"Morrison","Sean","Cardiff","Defender",1,2.6,0.38,0.5,90
+"240",240,"Bennett","Joe","Cardiff","Defender",1,2.6,0.38,0.5,94
+"241",241,"Gunnarsson","Aron","Cardiff","Midfielder",1,2.6,0.38,0.5,102
+"242",242,"Lallana","Adam","Liverpool","Midfielder",1,2.6,0.38,0.5,250
+"243",243,"Ki","Sung-yueng","Newcastle","Midfielder",1,2.6,0.38,0.33,324
+"244",244,"Obiang","Pedro","West Ham","Midfielder",1,2.6,0.38,0.5,413
+"245",245,"Mkhitaryan","Henrikh","Arsenal","Midfielder",1.2,3.2,0.37,0.4,18
+"246",246,"Wan-Bissaka","Aaron","Crystal Palace","Defender",1.2,3.2,0.37,0.3,145
+"247",247,"Meyer","Max","Crystal Palace","Midfielder",1.2,3.2,0.37,0.3,486
+"248",248,"Ayew","Jordan","Crystal Palace","Forward",1.2,3.2,0.37,0.3,505
+"249",249,"Lookman","Ademola","Everton","Midfielder",1.2,3.2,0.37,0.3,170
+"250",250,"Mounie","Steve","Huddersfield","Forward",1,2.8,0.36,0.5,211
+"251",251,"Mbenza","Isaac","Huddersfield","Midfielder",1,2.8,0.36,0.5,514
+"252",252,"Traoré","Adama","Wolves","Midfielder",1,2.8,0.36,0.25,500
+"253",253,"Daniels","Charlie","Bournemouth","Defender",1.2,3.4,0.35,0.6,28
+"254",254,"Otamendi","Nicolás","Man City","Defender",1.2,3.4,0.35,0.3,264
+"255",255,"Long","Shane","Southampton","Forward",1,3,0.33,0.33,347
+"256",256,"Gabbiadini","Manolo","Southampton","Forward",1,3,0.33,0.33,349
+"257",257,"Obafemi","Michael","Southampton","Forward",1,3,0.33,0.33,550
+"258",258,"Dembélé","Mousa","Spurs","Midfielder",1,3,0.33,0.5,362
+"259",259,"Taylor","Charlie","Burnley","Defender",0.8,2.6,0.31,0.27,74
+"260",260,"Brady","Robbie","Burnley","Midfielder",0.8,2.6,0.31,0.27,79
+"261",261,"Barnes","Ashley","Burnley","Forward",0.8,2.6,0.31,0.27,85
+"262",262,"Tomkins","James","Crystal Palace","Defender",1,3.2,0.31,0.25,138
+"263",263,"Schlupp","Jeffrey","Crystal Palace","Defender",1,3.2,0.31,0.25,141
+"264",264,"Sakho","Mamadou","Crystal Palace","Defender",1,3.2,0.31,0.25,143
+"265",265,"Tavares","Fabio Henrique","Liverpool","Midfielder",0.8,2.6,0.31,0.4,255
+"266",266,"Keita","Naby","Liverpool","Midfielder",0.8,2.6,0.31,0.4,256
+"267",267,"Mato Sanmartín","Jose Luis","Newcastle","Forward",0.8,2.6,0.31,0.27,327
+"268",268,"Cresswell","Aaron","West Ham","Defender",0.8,2.6,0.31,0.4,402
+"269",269,"Gosling","Dan","Bournemouth","Midfielder",1,3.4,0.29,0.5,37
+"270",270,"Iborra","Vicente","Leicester","Midfielder",0.8,2.8,0.29,0.4,228
+"271",271,"Gray","Andre","Watford","Forward",1,3.4,0.29,0.5,395
+"272",272,"Rodrigues de Paula Santos","Frederico","Man Utd","Midfielder",0.8,3,0.27,0.16,304
+"273",273,"Davies","Tom","Everton","Midfielder",0.8,3.2,0.25,0.2,169
+"274",274,"de Jesus","Gabriel Fernando","Man City","Forward",0.8,3.4,0.24,0.2,281
+"275",275,"Mee","Ben","Burnley","Defender",0.6,2.6,0.23,0.2,70
+"276",276,"Hendrick","Jeff","Burnley","Midfielder",0.6,2.6,0.23,0.2,78
+"277",277,"Ward","Danny","Cardiff","Midfielder",0.6,2.6,0.23,0.3,105
+"278",277,"Ward","Danny","Cardiff","Midfielder",0.6,2.6,0.23,0.3,457
+"279",278,"Zohore","Kenneth","Cardiff","Forward",0.6,2.6,0.23,0.3,107
+"280",279,"Atsu","Christian","Newcastle","Midfielder",0.6,2.6,0.23,0.2,320
+"281",280,"Rondón","Salomón","Newcastle","Forward",0.6,2.6,0.23,0.2,493
+"282",281,"Cairney","Tom","Fulham","Midfielder",0.8,3.6,0.22,0.16,182
+"283",282,"Okazaki","Shinji","Leicester","Forward",0.6,2.8,0.21,0.3,235
+"284",283,"Ghezzal","Rachid","Leicester","Midfielder",0.6,2.8,0.21,0.3,492
+"285",284,"Bonatini","Bonatini Lohner Maia","Wolves","Forward",0.6,2.8,0.21,0.15,438
+"286",285,"Lindelöf","Victor","Man Utd","Defender",0.6,3,0.2,0.12,292
+"287",286,"Fellaini","Marouane","Man Utd","Midfielder",0.6,3,0.2,0.12,298
+"288",287,"Herrera","Ander","Man Utd","Midfielder",0.6,3,0.2,0.12,299
+"289",288,"McTominay","Scott","Man Utd","Midfielder",0.6,3,0.2,0.12,303
+"290",289,"Romeu Vidal","Oriol","Southampton","Midfielder",0.6,3,0.2,0.2,339
+"291",290,"Armstrong","Stuart","Southampton","Midfielder",0.6,3,0.2,0.2,345
+"292",291,"Eriksen","Christian","Spurs","Midfielder",0.6,3,0.2,0.3,364
+"293",292,"Guendouzi","Matteo","Arsenal","Midfielder",0.6,3.2,0.19,0.2,451
+"294",293,"Sørloth","Alexander","Crystal Palace","Forward",0.6,3.2,0.19,0.15,153
+"295",294,"Foden","Phil","Man City","Midfielder",0.6,3.4,0.18,0.15,277
+"296",295,"Zinchenko","Oleksandr","Man City","Midfielder",0.6,3.4,0.18,0.15,279
+"297",296,"Deeney","Troy","Watford","Forward",0.6,3.4,0.18,0.3,396
+"298",297,"Odoi","Denis","Fulham","Defender",0.6,3.6,0.17,0.12,181
+"299",298,"Johansen","Stefan","Fulham","Midfielder",0.6,3.6,0.17,0.12,185
+"300",299,"Le Marchand","Maxime","Fulham","Defender",0.6,3.6,0.17,0.12,455
+"301",300,"Rico","Sergio","Fulham","Goalkeeper",0.6,3.6,0.17,0.12,509
+"302",301,"Long","Kevin","Burnley","Defender",0.4,2.6,0.15,0.13,73
+"303",302,"Damour","Loïc","Cardiff","Midfielder",0.4,2.6,0.15,0.2,104
+"304",303,"Madine","Gary","Cardiff","Forward",0.4,2.6,0.15,0.2,109
+"305",304,"Moreno","Alberto","Liverpool","Defender",0.4,2.6,0.15,0.2,240
+"306",305,"Manquillo","Javier","Newcastle","Defender",0.4,2.6,0.15,0.13,315
+"307",306,"Murphy","Jacob","Newcastle","Midfielder",0.4,2.6,0.15,0.13,321
+"308",307,"Ogbonna","Angelo","West Ham","Defender",0.4,2.6,0.15,0.2,403
+"309",308,"Bacuna","Juninho","Huddersfield","Midfielder",0.4,2.8,0.14,0.2,208
+"310",309,"Lingard","Jesse","Man Utd","Midfielder",0.4,3,0.13,0.08,300
+"311",310,"Ward-Prowse","James","Southampton","Midfielder",0.4,3,0.13,0.13,338
+"312",311,"Wanyama","Victor","Spurs","Midfielder",0.4,3,0.13,0.2,366
+"313",312,"Kolasinac","Sead","Arsenal","Defender",0.4,3.2,0.12,0.13,8
+"314",313,"Lichtsteiner","Stephan","Arsenal","Defender",0.4,3.2,0.12,0.13,11
+"315",314,"Ibe","Jordon","Bournemouth","Midfielder",0.4,3.4,0.12,0.2,38
+"316",315,"Fàbregas","Cesc","Chelsea","Midfielder",0.4,3.4,0.12,0.13,123
+"317",316,"Schneiderlin","Morgan","Everton","Midfielder",0.4,3.2,0.12,0.1,167
+"318",317,"De Bruyne","Kevin","Man City","Midfielder",0.4,3.4,0.12,0.1,273
+"319",318,"Bettinelli","Marcus","Fulham","Goalkeeper",0.4,3.6,0.11,0.08,178
+"320",319,"Ream","Tim","Fulham","Defender",0.4,3.6,0.11,0.08,180
+"321",320,"McDonald","Kevin","Fulham","Midfielder",0.4,3.6,0.11,0.08,183
+"322",321,"Ayité","Floyd","Fulham","Midfielder",0.4,3.6,0.11,0.08,186
+"323",322,"Kamara","Aboubakar","Fulham","Forward",0.4,3.6,0.11,0.08,189
+"324",323,"Wilmot","Ben","Watford","Defender",0.333333333333333,3.4,0.1,0.17,544
+"325",324,"Andone","Florin","Brighton","Forward",0.2,2.2,0.09,0.1,66
+"326",325,"Fernandes da Silva Junior","Bernardo","Brighton","Defender",0.2,2.2,0.09,0.1,440
+"327",326,"Lowton","Matthew","Burnley","Defender",0.2,2.6,0.08,0.07,69
+"328",327,"Tarkowski","James","Burnley","Defender",0.2,2.6,0.08,0.07,72
+"329",328,"Richards","Ashley Darel Jazz","Cardiff","Defender",0.2,2.6,0.08,0.1,96
+"330",329,"Matip","Joel","Liverpool","Defender",0.2,2.6,0.08,0.1,243
+"331",330,"Clark","Ciaran","Newcastle","Defender",0.2,2.6,0.08,0.07,311
+"332",331,"Pérez","Lucas","West Ham","Forward",0.2,2.6,0.08,0.1,502
+"333",332,"van La Parra","Rajiv","Huddersfield","Midfielder",0.2,2.8,0.07,0.1,200
+"334",333,"Sobhi","Ramadan","Huddersfield","Midfielder",0.2,2.8,0.07,0.1,207
+"335",334,"Diakhaby","Adama","Huddersfield","Midfielder",0.2,2.8,0.07,0.1,471
+"336",335,"Simpson","Danny","Leicester","Defender",0.2,2.8,0.07,0.1,217
+"337",336,"Söyüncü","Caglar","Leicester","Defender",0.2,2.8,0.07,0.1,515
+"338",337,"Yoshida","Maya","Southampton","Defender",0.2,3,0.07,0.07,331
+"339",338,"Bednarek","Jan","Southampton","Defender",0.2,3,0.07,0.07,335
+"340",339,"Vestergaard","Jannik","Southampton","Defender",0.2,3,0.07,0.07,463
+"341",340,"Vertonghen","Jan","Spurs","Defender",0.2,3,0.07,0.1,355
+"342",341,"Alli","Bamidele","Spurs","Midfielder",0.2,3,0.07,0.1,365
+"343",342,"Llorente","Fernando","Spurs","Forward",0.2,3,0.07,0.1,371
+"344",343,"Saïss","Romain","Wolves","Defender",0.2,2.8,0.07,0.05,426
+"345",344,"Silva Nascimento Vinagre","Rúben Gonçalo","Wolves","Defender",0.2,2.8,0.07,0.05,431
+"346",345,"Gibbs-White","Morgan","Wolves","Midfielder",0.2,2.8,0.07,0.05,448
+"347",346,"Cech","Petr","Arsenal","Goalkeeper",0.2,3.2,0.06,0.07,1
+"348",347,"Surman","Andrew","Bournemouth","Midfielder",0.2,3.4,0.06,0.1,35
+"349",348,"Defoe","Jermain","Bournemouth","Forward",0.2,3.4,0.06,0.1,46
+"350",349,"Moses","Victor","Chelsea","Defender",0.2,3.4,0.06,0.07,117
+"351",350,"Puncheon","Jason","Crystal Palace","Midfielder",0.2,3.2,0.06,0.05,146
+"352",351,"Wickham","Connor","Crystal Palace","Forward",0.2,3.2,0.06,0.05,444
+"353",352,"Mina","Yerry","Everton","Defender",0.2,3.2,0.06,0.05,506
+"354",353,"Christie","Cyrus","Fulham","Defender",0.2,3.6,0.06,0.04,460
+"355",354,"Bryan","Joe","Fulham","Defender",0.2,3.6,0.06,0.04,510
+"356",355,"Delph","Fabian","Man City","Defender",0.2,3.4,0.06,0.05,269
+"357",356,"Prödl","Sebastian","Watford","Defender",0.2,3.4,0.06,0.1,377
+"358",357,"Holebas","José","Watford","Defender",0.2,3.4,0.06,0.1,378
+"359",358,"Navarro","Marc","Watford","Defender",0.2,3.4,0.06,0.1,385
+"360",359,"Chalobah","Nathaniel","Watford","Midfielder",0.2,3.4,0.06,0.1,387
+"361",360,"Sema","Ken","Watford","Midfielder",0.2,3.4,0.06,0.1,446
+"362",361,"Koscielny","Laurent","Arsenal","Defender",0,3.2,0,0,3
+"363",362,"Mavropanos","Konstantinos","Arsenal","Defender",0,3.2,0,0,10
+"364",363,"Papastathopoulos","Sokratis","Arsenal","Defender",0,3.2,0,0,12
+"365",364,"Elneny","Mohamed","Arsenal","Midfielder",0,3.2,0,0,16
+"366",365,"Nelson","Reiss","Arsenal","Midfielder",0,3.2,0,0,19
+"367",366,"Maitland-Niles","Ainsley","Arsenal","Midfielder",0,3.2,0,0,20
+"368",367,"Martínez","Emiliano","Arsenal","Goalkeeper",0,3.2,0,0,542
+"369",368,"Smith-Rowe","Emile","Arsenal","Midfielder",0,3.2,0,0,545
+"370",369,"Medley","Zech","Arsenal","Defender",0,3.2,0,0,546
+"371",370,"Boruc","Artur","Bournemouth","Goalkeeper",0,3.4,0,0,25
+"372",371,"Mings","Tyrone","Bournemouth","Defender",0,3.4,0,0,30
+"373",372,"Simpson","Jack","Bournemouth","Defender",0,3.4,0,0,32
+"374",373,"Pugh","Marc","Bournemouth","Midfielder",0,3.4,0,0,34
+"375",374,"Hyndman","Emerson","Bournemouth","Midfielder",0,3.4,0,0,41
+"376",375,"Mousset","Lys","Bournemouth","Forward",0,3.4,0,0,44
+"377",376,"Rico","Diego","Bournemouth","Defender",0,3.4,0,0,473
+"378",377,"Suttner","Markus","Brighton","Defender",0,2.2,0,0,52
+"379",378,"Schelotto","Ezequiel","Brighton","Defender",0,2.2,0,0,53
+"380",379,"Balogun","Leon","Brighton","Defender",0,2.2,0,0,54
+"381",380,"Groß","Pascal","Brighton","Midfielder",0,2.2,0,0,59
+"382",381,"Hemed","Tomer","Brighton","Forward",0,2.2,0,0,63
+"383",382,"Baldock","Sam","Brighton","Forward",0,2.2,0,0,64
+"384",383,"Button","David","Brighton","Goalkeeper",0,2.2,0,0,179
+"385",384,"Steele","Jason","Brighton","Goalkeeper",0,2.2,0,0,439
+"386",385,"Montoya","Martín","Brighton","Defender",0,2.2,0,0,503
+"387",386,"Heaton","Tom","Burnley","Goalkeeper",0,2.6,0,0,67
+"388",387,"Pope","Nick","Burnley","Goalkeeper",0,2.6,0,0,68
+"389",388,"Ward","Stephen","Burnley","Defender",0,2.6,0,0,71
+"390",389,"Bardsley","Phil","Burnley","Defender",0,2.6,0,0,75
+"391",390,"Walters","Jonathan","Burnley","Midfielder",0,2.6,0,0,81
+"392",391,"Wells","Nahki","Burnley","Forward",0,2.6,0,0,86
+"393",392,"Lindegaard","Anders","Burnley","Goalkeeper",0,2.6,0,0,485
+"394",393,"Gibson","Ben","Burnley","Defender",0,2.6,0,0,491
+"395",394,"McNeil","Dwight","Burnley","Midfielder",0,2.6,0,0,534
+"396",395,"Smithies","Alex","Cardiff","Goalkeeper",0,2.6,0,0,89
+"397",396,"Connolly","Matthew","Cardiff","Defender",0,2.6,0,0,93
+"398",397,"Peltier","Lee","Cardiff","Defender",0,2.6,0,0,95
+"399",398,"Halford","Greg","Cardiff","Defender",0,2.6,0,0,97
+"400",399,"Ralls","Joe","Cardiff","Midfielder",0,2.6,0,0,98
+"401",400,"Mendez-Laing","Nathaniel","Cardiff","Midfielder",0,2.6,0,0,100
+"402",401,"Pilkington","Anthony","Cardiff","Midfielder",0,2.6,0,0,103
+"403",402,"Bogle","Omar","Cardiff","Forward",0,2.6,0,0,108
+"404",403,"Cunninghamm","Greg","Cardiff","Defender",0,2.6,0,0,467
+"405",404,"Murphy","Brian","Cardiff","Goalkeeper",0,2.6,0,0,537
+"406",405,"Courtois","Thibaut","Chelsea","Goalkeeper",0,3.4,0,0,111
+"407",406,"Caballero","Willy","Chelsea","Goalkeeper",0,3.4,0,0,112
+"408",407,"Cahill","Gary","Chelsea","Defender",0,3.4,0,0,114
+"409",408,"Christensen","Andreas","Chelsea","Defender",0,3.4,0,0,119
+"410",409,"Zappacosta","Davide","Chelsea","Defender",0,3.4,0,0,120
+"411",410,"Palmieri dos Santos","Emerson","Chelsea","Defender",0,3.4,0,0,121
+"412",411,"Drinkwater","Daniel","Chelsea","Midfielder",0,3.4,0,0,128
+"413",412,"Bakayoko","Tiemoué","Chelsea","Midfielder",0,3.4,0,0,129
+"414",413,"Ampadu","Ethan","Chelsea","Midfielder",0,3.4,0,0,130
+"415",414,"Hudson-Odoi","Callum","Chelsea","Midfielder",0,3.4,0,0,131
+"416",415,"Abraham","Tammy","Chelsea","Forward",0,3.4,0,0,496
+"417",416,"Speroni","Julian","Crystal Palace","Goalkeeper",0,3.2,0,0,136
+"418",417,"Guaita","Vicente","Crystal Palace","Goalkeeper",0,3.2,0,0,137
+"419",418,"Dann","Scott","Crystal Palace","Defender",0,3.2,0,0,139
+"420",419,"Kelly","Martin","Crystal Palace","Defender",0,3.2,0,0,140
+"421",420,"Riedewald","Jairo","Crystal Palace","Defender",0,3.2,0,0,144
+"422",421,"Sako","Bakary","Crystal Palace","Midfielder",0,3.2,0,0,148
+"423",422,"Benteke","Christian","Crystal Palace","Forward",0,3.2,0,0,152
+"424",423,"Ward","Joel","Crystal Palace","Defender",0,3.2,0,0,441
+"425",424,"Jach","Jaroslaw","Crystal Palace","Defender",0,3.2,0,0,442
+"426",425,"Souaré","Pape","Crystal Palace","Defender",0,3.2,0,0,443
+"427",426,"Kaikai","Sullay","Crystal Palace","Midfielder",0,3.2,0,0,477
+"428",427,"Stekelenburg","Maarten","Everton","Goalkeeper",0,3.2,0,0,155
+"429",428,"Baines","Leighton","Everton","Defender",0,3.2,0,0,156
+"430",429,"Jagielka","Phil","Everton","Defender",0,3.2,0,0,158
+"431",430,"Williams","Ashley","Everton","Defender",0,3.2,0,0,159
+"432",431,"Holgate","Mason","Everton","Defender",0,3.2,0,0,160
+"433",432,"Martina","Cuco","Everton","Defender",0,3.2,0,0,163
+"434",433,"Bolasie","Yannick","Everton","Midfielder",0,3.2,0,0,165
+"435",434,"McCarthy","James","Everton","Midfielder",0,3.2,0,0,166
+"436",435,"Klaassen","Davy","Everton","Midfielder",0,3.2,0,0,171
+"437",436,"Vlasic","Nikola","Everton","Midfielder",0,3.2,0,0,173
+"438",437,"Baningime","Beni","Everton","Midfielder",0,3.2,0,0,174
+"439",438,"Niasse","Oumar","Everton","Forward",0,3.2,0,0,176
+"440",439,"Mirallas","Kevin","Everton","Midfielder",0,3.2,0,0,469
+"441",440,"Ramírez","Sandro","Everton","Forward",0,3.2,0,0,470
+"442",441,"Dowell","Kieran","Everton","Midfielder",0,3.2,0,0,528
+"443",442,"Browning","Tyias","Everton","Defender",0,3.2,0,0,532
+"444",443,"Kebano","Neeskens","Fulham","Midfielder",0,3.6,0,0,187
+"445",444,"da Rocha Fonte","Rui Pedro","Fulham","Midfielder",0,3.6,0,0,188
+"446",445,"Agosto Ramírez","Fabricio","Fulham","Goalkeeper",0,3.6,0,0,474
+"447",446,"Mawson","Alfie","Fulham","Defender",0,3.6,0,0,487
+"448",447,"Fosu-Mensah","Timothy","Fulham","Defender",0,3.6,0,0,511
+"449",448,"Cissé","Ibrahima","Fulham","Midfielder",0,3.6,0,0,521
+"450",449,"Sessegnon","Zeze Steven","Fulham","Defender",0,3.6,0,0,541
+"451",450,"Hamer","Ben","Huddersfield","Goalkeeper",0,2.8,0,0,190
+"452",451,"Smith","Tommy","Huddersfield","Defender",0,2.8,0,0,194
+"453",452,"Malone","Scott","Huddersfield","Defender",0,2.8,0,0,196
+"454",453,"Ince","Tom","Huddersfield","Midfielder",0,2.8,0,0,203
+"455",454,"Williams","Danny","Huddersfield","Midfielder",0,2.8,0,0,204
+"456",455,"Sabiri","Abdelhamid","Huddersfield","Midfielder",0,2.8,0,0,205
+"457",456,"Quaner","Collin","Huddersfield","Forward",0,2.8,0,0,209
+"458",457,"Kachunga","Elias","Huddersfield","Forward",0,2.8,0,0,212
+"459",458,"Stankovic","Jon Gorenc","Huddersfield","Defender",0,2.8,0,0,522
+"460",459,"Schofield","Ryan","Huddersfield","Goalkeeper",0,2.8,0,0,533
+"461",460,"Jakupovic","Eldin","Leicester","Goalkeeper",0,2.8,0,0,214
+"462",461,"Fuchs","Christian","Leicester","Defender",0,2.8,0,0,216
+"463",462,"Benalouane","Yohan","Leicester","Defender",0,2.8,0,0,218
+"464",463,"James","Matty","Leicester","Midfielder",0,2.8,0,0,229
+"465",464,"Choudhury","Hamza","Leicester","Midfielder",0,2.8,0,0,230
+"466",465,"Perruchet Silva","Adrien Sebastian","Leicester","Midfielder",0,2.8,0,0,231
+"467",466,"Diabaté","Fousseni","Leicester","Midfielder",0,2.8,0,0,232
+"468",467,"Ward","Danny","Leicester","Goalkeeper",0,2.8,0,0,105
+"469",467,"Ward","Danny","Leicester","Goalkeeper",0,2.8,0,0,457
+"470",468,"Benkovic","Filip","Leicester","Defender",0,2.8,0,0,501
+"471",469,"Mignolet","Simon","Liverpool","Goalkeeper",0,2.6,0,0,237
+"472",470,"Karius","Loris","Liverpool","Goalkeeper",0,2.6,0,0,238
+"473",471,"Clyne","Nathaniel","Liverpool","Defender",0,2.6,0,0,241
+"474",472,"Klavan","Ragnar","Liverpool","Defender",0,2.6,0,0,244
+"475",473,"Oxlade-Chamberlain","Alex","Liverpool","Midfielder",0,2.6,0,0,248
+"476",474,"Solanke","Dominic","Liverpool","Forward",0,2.6,0,0,259
+"477",475,"Origi","Divock","Liverpool","Forward",0,2.6,0,0,543
+"478",476,"Bravo","Claudio","Man City","Goalkeeper",0,3.4,0,0,261
+"479",477,"da Silva","Danilo Luiz","Man City","Defender",0,3.4,0,0,266
+"480",478,"Gündogan","Ilkay","Man City","Midfielder",0,3.4,0,0,274
+"481",479,"Diaz","Brahim","Man City","Midfielder",0,3.4,0,0,278
+"482",480,"Muric","Arijanet","Man City","Goalkeeper",0,3.4,0,0,529
+"483",481,"Romero","Sergio","Man Utd","Goalkeeper",0,3,0,0,283
+"484",482,"Jones","Phil","Man Utd","Defender",0,3,0,0,285
+"485",483,"Rojo","Marcos","Man Utd","Defender",0,3,0,0,287
+"486",484,"Valencia","Antonio","Man Utd","Defender",0,3,0,0,288
+"487",485,"Darmian","Matteo","Man Utd","Defender",0,3,0,0,289
+"488",486,"Blind","Daley","Man Utd","Defender",0,3,0,0,290
+"489",487,"Bailly","Eric","Man Utd","Defender",0,3,0,0,291
+"490",488,"Dalot Teixeira","José Diogo","Man Utd","Defender",0,3,0,0,294
+"491",489,"Pereira","Andreas","Man Utd","Midfielder",0,3,0,0,481
+"492",490,"Grant","Lee","Man Utd","Goalkeeper",0,3,0,0,520
+"493",491,"Elliot","Robert","Newcastle","Goalkeeper",0,2.6,0,0,307
+"494",492,"Darlow","Karl","Newcastle","Goalkeeper",0,2.6,0,0,308
+"495",493,"Lejeune","Florian","Newcastle","Defender",0,2.6,0,0,314
+"496",494,"Mbemba","Chancel","Newcastle","Defender",0,2.6,0,0,316
+"497",495,"Merino","Mikel","Newcastle","Midfielder",0,2.6,0,0,322
+"498",496,"Hayden","Isaac","Newcastle","Midfielder",0,2.6,0,0,323
+"499",497,"Gayle","Dwight","Newcastle","Forward",0,2.6,0,0,325
+"500",498,"Schär","Fabian","Newcastle","Defender",0,2.6,0,0,482
+"501",499,"Sterry","Jamie","Newcastle","Defender",0,2.6,0,0,530
+"502",500,"Longstaff","Sean","Newcastle","Midfielder",0,2.6,0,0,531
+"503",501,"Forster","Fraser","Southampton","Goalkeeper",0,3,0,0,329
+"504",502,"McQueen","Sam","Southampton","Defender",0,3,0,0,334
+"505",503,"Davis","Steven","Southampton","Midfielder",0,3,0,0,337
+"506",504,"Boufal","Sofiane","Southampton","Midfielder",0,3,0,0,341
+"507",505,"Sims","Joshua","Southampton","Midfielder",0,3,0,0,342
+"508",506,"Carrillo","Guido","Southampton","Forward",0,3,0,0,350
+"509",507,"Gunn","Angus","Southampton","Goalkeeper",0,3,0,0,452
+"510",508,"Targett","Matt","Southampton","Defender",0,3,0,0,479
+"511",509,"Vorm","Michel","Spurs","Goalkeeper",0,3,0,0,352
+"512",510,"Walker-Peters","Kyle","Spurs","Defender",0,3,0,0,358
+"513",511,"Aurier","Serge","Spurs","Defender",0,3,0,0,360
+"514",512,"Nkoudou","Georges-Kévin","Spurs","Midfielder",0,3,0,0,497
+"515",513,"Amos","Luke","Spurs","Midfielder",0,3,0,0,523
+"516",514,"Whiteman","Alfie","Spurs","Goalkeeper",0,3,0,0,538
+"517",515,"Skipp","Oliver","Spurs","Midfielder",0,3,0,0,540
+"518",516,"Foyth","Juan","Spurs","Defender",0,3,0,0,549
+"519",517,"Gomes","Heurelho","Watford","Goalkeeper",0,3.4,0,0,373
+"520",518,"Dahlberg","Pontus","Watford","Goalkeeper",0,3.4,0,0,374
+"521",519,"Kaboul","Younes","Watford","Defender",0,3.4,0,0,375
+"522",520,"Britos","Miguel","Watford","Defender",0,3.4,0,0,379
+"523",521,"Janmaat","Daryl","Watford","Defender",0,3.4,0,0,381
+"524",522,"Zeegelaar","Marvin","Watford","Defender",0,3.4,0,0,384
+"525",523,"Cleverley","Tom","Watford","Midfielder",0,3.4,0,0,388
+"526",524,"Okaka","Stefano","Watford","Forward",0,3.4,0,0,397
+"527",525,"Sinclair","Jerome","Watford","Forward",0,3.4,0,0,398
+"528",526,"Quina","Domingos","Watford","Midfielder",0,3.4,0,0,517
+"529",527,"San Miguel del Castillo","Adrián","West Ham","Goalkeeper",0,2.6,0,0,399
+"530",528,"Reid","Winston","West Ham","Defender",0,2.6,0,0,401
+"531",529,"Byram","Sam","West Ham","Defender",0,2.6,0,0,404
+"532",530,"Oxford","Reece","West Ham","Defender",0,2.6,0,0,407
+"533",531,"Fredericks","Ryan","West Ham","Defender",0,2.6,0,0,408
+"534",532,"Lanzini","Manuel","West Ham","Midfielder",0,2.6,0,0,414
+"535",533,"Fernandes","Edimilson","West Ham","Midfielder",0,2.6,0,0,416
+"536",534,"Carroll","Andy","West Ham","Forward",0,2.6,0,0,418
+"537",535,"Hugill","Jordan","West Ham","Forward",0,2.6,0,0,420
+"538",536,"Wilshere","Jack","West Ham","Midfielder",0,2.6,0,0,447
+"539",537,"Sánchez","Carlos","West Ham","Midfielder",0,2.6,0,0,518
+"540",538,"Powell","Joe","West Ham","Midfielder",0,2.6,0,0,547
+"541",539,"Coventry","Conor","West Ham","Midfielder",0,2.6,0,0,548
+"542",540,"Ruddy","John","Wolves","Goalkeeper",0,2.8,0,0,421
+"543",541,"Norris","Will","Wolves","Goalkeeper",0,2.8,0,0,422
+"544",542,"Douglas","Barry","Wolves","Defender",0,2.8,0,0,424
+"545",543,"Batth","Danny","Wolves","Defender",0,2.8,0,0,428
+"546",544,"Gonçalves Miranda","Roderick Jefferson","Wolves","Defender",0,2.8,0,0,429
+"547",545,"Enobakhare","Bright","Wolves","Midfielder",0,2.8,0,0,436
+"548",546,"Mir","Rafa","Wolves","Forward",0,2.8,0,0,449
+"549",547,"Dendoncker","Leander","Wolves","Midfielder",0,2.8,0,0,519
+"550",548,"Hause","Kortney","Wolves","Defender",0,2.8,0,0,525
+"551",549,"Kabasele","Christian","Watford","Defender",-0.4,3.4,-0.12,-0.2,380
+"552",550,"Chambers","Calum","Fulham","Defender",-0.2,3.6,-0.06,-0.04,9

@@ -3,6 +3,7 @@ library(tidyverse)
 
 
 players <- fpl_get_players()
+bootstrap <- fpl_get_bootstrap()
 
 
 # Defines functions
@@ -49,7 +50,7 @@ players <- players%>%
 # Select appropriate columns
 
 players_utvalg <- players%>%
-  select(second_name, first_name, team_name, position, mean_points_last_5, difficulty_next_5, t_score, t_score_cpt)%>%
+  select(id, second_name, first_name, team_name, position, mean_points_last_5, difficulty_next_5, t_score_cpt, t_score)%>%
   arrange(desc(t_score))
 
 
