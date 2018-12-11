@@ -1,11 +1,11 @@
 library(dplyr)
 
 team <- data.frame(c(
-  "dos Santos Patrício", 
+  "Fabianski", 
   "Stekelenburg", 
   "Doherty", 
   "Robertson", 
-  "Walker", 
+  "Alexander-Arnold", 
   "Laporte", 
   "Dunk", 
   "Barkley", 
@@ -14,7 +14,7 @@ team <- data.frame(c(
   "Sterling", 
   "de Andrade", 
   "Murray", 
-  "Lacazette", 
+  "Kane", 
   "Wilson"))
 
 colnames(team) <- "Players"
