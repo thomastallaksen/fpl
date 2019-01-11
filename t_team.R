@@ -11,7 +11,7 @@ team <- data.frame(c(
   "Snodgrass", 
   "Pereira Gomes", 
   "Sigurdsson", 
-  "Sterling", 
+  "Pogba", 
   "de Andrade", 
   "Murray", 
   "Kane", 
@@ -21,4 +21,5 @@ colnames(team) <- "Players"
 
 t_team <- team%>%
   left_join(players_utvalg, by = c("Players" = "second_name"))
-  
+
+View(t_team)
