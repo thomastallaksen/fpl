@@ -2,13 +2,13 @@ library(dplyr)
 
 team <- data.frame(c(
   "Fabianski", 
-  "Stekelenburg", 
+  "Etheridge", 
   "Doherty", 
   "Robertson", 
   "Alexander-Arnold", 
-  "Laporte", 
+  "Digne", 
   "Dunk", 
-  "Snodgrass", 
+  "Son", 
   "Pereira Gomes", 
   "Sigurdsson", 
   "Pogba", 
