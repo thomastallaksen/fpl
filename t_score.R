@@ -3,7 +3,6 @@ library(tidyverse)
 
 
 players <- fpl_get_players()
-bootstrap <- fpl_get_bootstrap()
 
 
 # Defines functions

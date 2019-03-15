@@ -3,19 +3,19 @@ library(dplyr)
 team <- data.frame(c(
   "Fabianski", 
   "Etheridge", 
-  "Doherty", 
+  "Rice", 
   "Robertson", 
-  "Alexander-Arnold", 
+  "Bamba", 
   "Digne", 
-  "Dunk", 
-  "Son", 
-  "Pereira Gomes", 
-  "Sigurdsson", 
+  "Wan-Bissaka", 
+  "Camarasa", 
+  "Salah", 
+  "Bernado Silva", 
   "Pogba", 
-  "de Andrade", 
-  "Murray", 
-  "Kane", 
-  "Wilson"))
+  "Lingard", 
+  "Deeney", 
+  "Rashford", 
+  "Aubameyang"))
 
 colnames(team) <- "Players"
 
