@@ -21,7 +21,8 @@ fpl_get_player_all()%>%
 
 # Test how many points the team picked from the chart over generates
 
-best_team <- c("Vardy", "Rashford", "Abraham", "Mane", "De Bruyne", "Son", "Salah", "Lundstram", "Baldock", "Pereira", "Ramsdale")
+best_team <- c("Vardy", "Rashford", "Abraham", "Mané", "De Bruyne", "Son", "Maddison", "Lundstram", "Baldock", 
+               "Söyüncü", "Ramsdale")
 
 round_one_cost <- function(x){
   player <- fpl_get_player_detailed(x)
@@ -34,7 +35,7 @@ round_one_cost <- function(x){
 fpl_get_player_all()%>%
   filter(web_name %in% best_team)%>%
   mutate(round_one_cost = map_dbl(id, round_one_cost))%>%
-  summarise(Points = sum(total_points)+133, Cost = sum(round_one_cost))
+  summarise(Points = sum(total_points)+133, Cost = sum(round_one_cost)+16.5)
 
 
 # Points vs. cost last five rounds
